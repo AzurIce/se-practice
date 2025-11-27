@@ -1,6 +1,8 @@
+#import "@preview/cuti:0.4.0": show-cn-fakebold
 #set page(paper: "a4")
-#set text(font: "Songti SC", lang: "zh")
-#set heading(numbering: "1.")
+#set text(font: "LXGW Bright", lang: "zh")
+
+#show: show-cn-fakebold
 
 // 按组号分组仓库的函数
 #let group-by-number(repos) = {
