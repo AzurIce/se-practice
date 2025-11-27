@@ -44,6 +44,8 @@
             packages = with pkgs;
               [
                 uv
+                typst
+                (callPackage ./git-graph.nix {})
               ] ++ [ python ];
 
             env = {

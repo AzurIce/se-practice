@@ -1,0 +1,141 @@
+[
+  {
+    "group_number": 1,
+    "git_url": "https://github.com/HachimiResort/hcmu-hospital-frontend",
+    "git_branch": "main",
+    "repo_name": "hcmu-hospital-frontend"
+  },
+  {
+    "group_number": 1,
+    "git_url": "https://github.com/HachimiResort/hcmu-hospital-backend",
+    "git_branch": "main",
+    "repo_name": "hcmu-hospital-backend"
+  },
+  {
+    "group_number": 1,
+    "git_url": "https://github.com/HachimiResort/hcmu-hospital-frontend-wechat",
+    "git_branch": "master",
+    "repo_name": "hcmu-hospital-frontend-wechat"
+  },
+  {
+    "group_number": 2,
+    "git_url": "https://github.com/7ye7ye/lh777",
+    "git_branch": "main",
+    "repo_name": "lh777"
+  },
+  {
+    "group_number": 3,
+    "git_url": "https://github.com/sisifuCha/HGY-hospital",
+    "git_branch": "master",
+    "repo_name": "HGY-hospital"
+  },
+  {
+    "group_number": 3,
+    "git_url": "https://github.com/sisifuCha/hgy-administer-frontend",
+    "git_branch": "master",
+    "repo_name": "hgy-administer-frontend"
+  },
+  {
+    "group_number": 3,
+    "git_url": "https://github.com/ABLT1273/HRS_DoctorUI.git",
+    "git_branch": "main",
+    "repo_name": "HRS_DoctorUI"
+  },
+  {
+    "group_number": 3,
+    "git_url": "https://github.com/54shitaimzf/HRS_hospital_patient_frontend",
+    "git_branch": "main",
+    "repo_name": "HRS_hospital_patient_frontend"
+  },
+  {
+    "group_number": 4,
+    "git_url": "https://github.com/Asnowww/Shengxin-Hospital-Appointment-System/",
+    "git_branch": "main",
+    "repo_name": "Shengxin-Hospital-Appointment-System"
+  },
+  {
+    "group_number": 5,
+    "git_url": "https://github.com/bjtu-hospital/doctor-fronted.git",
+    "git_branch": "main",
+    "repo_name": "doctor-fronted"
+  },
+  {
+    "group_number": 5,
+    "git_url": "https://github.com/bjtu-hospital/hospital-patient-frontend.git",
+    "git_branch": "main",
+    "repo_name": "hospital-patient-frontend"
+  },
+  {
+    "group_number": 5,
+    "git_url": "https://github.com/bjtu-hospital/hospital-backend.git",
+    "git_branch": "main",
+    "repo_name": "hospital-backend"
+  },
+  {
+    "group_number": 5,
+    "git_url": "https://github.com/bjtu-hospital/hospital-admin-frontend.git",
+    "git_branch": "main",
+    "repo_name": "hospital-admin-frontend"
+  },
+  {
+    "group_number": 6,
+    "git_url": "https://github.com/CyberWorker-Li/Are-you-sick.git",
+    "git_branch": "main",
+    "repo_name": "Are-you-sick"
+  },
+  {
+    "group_number": 7,
+    "git_url": "https://github.com/DoyeonKing/hospital_system",
+    "git_branch": "zhangbolong7.0",
+    "repo_name": "hospital_system"
+  },
+  {
+    "group_number": 8,
+    "git_url": "https://github.com/hospital-BJTU/backend.git",
+    "git_branch": "backend",
+    "repo_name": "backend"
+  },
+  {
+    "group_number": 9,
+    "git_url": "https://github.com/Malahaitai8/YiDianTong",
+    "git_branch": "dev",
+    "repo_name": "YiDianTong"
+  },
+  {
+    "group_number": 10,
+    "git_url": "https://gitee.com/mingyue551/first-care",
+    "git_branch": "develop",
+    "repo_name": "first-care"
+  },
+  {
+    "group_number": 11,
+    "git_url": "https://github.com/ALKYH/HospitalManage",
+    "git_branch": "main",
+    "repo_name": "HospitalManage"
+  },
+  {
+    "group_number": 12,
+    "git_url": "https://github.com/wan300/Yuzu_Hospital_registration_system",
+    "git_branch": "main",
+    "repo_name": "Yuzu_Hospital_registration_system"
+  },
+  {
+    "group_number": 13,
+    "git_url": "https://github.com/Lxlorange/hospital-backend.git",
+    "git_branch": "master",
+    "repo_name": "hospital-backend"
+  },
+  {
+    "group_number": 13,
+    "git_url": "https://github.com/Lxlorange/hospital-frontend.git",
+    "git_branch": "master",
+    "repo_name": "hospital-frontend"
+  },
+  {
+    "group_number": 13,
+    "git_url": "https://github.com/2307289009/hospital-phoneApp.git",
+    "git_branch": "master",
+    "repo_name": "hospital-phoneApp"
+  }
+]
+

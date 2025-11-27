@@ -1,0 +1,71 @@
+[submodule "repos/1-HospitalSystem/hcmu-hospital-frontend"]
+	path = repos/1-HospitalSystem/hcmu-hospital-frontend
+	url = https://github.com/HachimiResort/hcmu-hospital-frontend
+[submodule "repos/1-HospitalSystem/hcmu-hospital-backend"]
+	path = repos/1-HospitalSystem/hcmu-hospital-backend
+	url = https://github.com/HachimiResort/hcmu-hospital-backend
+[submodule "repos/1-HospitalSystem/hcmu-hospital-frontend-wechat"]
+	path = repos/1-HospitalSystem/hcmu-hospital-frontend-wechat
+	url = https://github.com/HachimiResort/hcmu-hospital-frontend-wechat
+[submodule "repos/2-HospitalSystem/lh777"]
+	path = repos/2-HospitalSystem/lh777
+	url = https://github.com/7ye7ye/lh777
+[submodule "repos/4-HospitalSystem/Shengxin-Hospital-Appointment-System"]
+	path = repos/4-HospitalSystem/Shengxin-Hospital-Appointment-System
+	url = https://github.com/Asnowww/Shengxin-Hospital-Appointment-System/
+[submodule "repos/6-HospitalSystem/Are-you-sick"]
+	path = repos/6-HospitalSystem/Are-you-sick
+	url = https://github.com/CyberWorker-Li/Are-you-sick.git
+[submodule "repos/7-HospitalSystem/hospital_system"]
+	path = repos/7-HospitalSystem/hospital_system
+	url = https://github.com/DoyeonKing/hospital_system
+	branch = zhangbolong7.0
+[submodule "repos/8-HospitalSystem/backend"]
+	path = repos/8-HospitalSystem/backend
+	url = https://github.com/hospital-BJTU/backend.git
+[submodule "repos/9-HospitalSystem/YiDianTong"]
+	path = repos/9-HospitalSystem/YiDianTong
+	url = https://github.com/Malahaitai8/YiDianTong
+	branch = dev
+[submodule "repos/3-HospitalSystem/HGY-hospital"]
+	path = repos/3-HospitalSystem/HGY-hospital
+	url = https://github.com/sisifuCha/HGY-hospital
+[submodule "repos/3-HospitalSystem/hgy-administer-frontend"]
+	path = repos/3-HospitalSystem/hgy-administer-frontend
+	url = https://github.com/sisifuCha/hgy-administer-frontend
+[submodule "repos/3-HospitalSystem/HRS_DoctorUI"]
+	path = repos/3-HospitalSystem/HRS_DoctorUI
+	url = https://github.com/ABLT1273/HRS_DoctorUI.git
+[submodule "repos/3-HospitalSystem/HRS_hospital_patient_frontend"]
+	path = repos/3-HospitalSystem/HRS_hospital_patient_frontend
+	url = https://github.com/54shitaimzf/HRS_hospital_patient_frontend
+[submodule "repos/10-HospitalSystem/first-care"]
+	path = repos/10-HospitalSystem/first-care
+	url = https://gitee.com/mingyue551/first-care
+[submodule "repos/12-HospitalSystem/Yuzu_Hospital_registration_system"]
+	path = repos/12-HospitalSystem/Yuzu_Hospital_registration_system
+	url = https://github.com/wan300/Yuzu_Hospital_registration_system
+[submodule "repos/13-HospitalSystem/hospital-backend"]
+	path = repos/13-HospitalSystem/hospital-backend
+	url = https://github.com/Lxlorange/hospital-backend.git
+[submodule "repos/13-HospitalSystem/hospital-frontend"]
+	path = repos/13-HospitalSystem/hospital-frontend
+	url = https://github.com/Lxlorange/hospital-frontend.git
+[submodule "repos/13-HospitalSystem/hospital-phoneApp"]
+	path = repos/13-HospitalSystem/hospital-phoneApp
+	url = https://github.com/2307289009/hospital-phoneApp.git
+[submodule "repos/5-HospitalSystem/doctor-fronted"]
+	path = repos/5-HospitalSystem/doctor-fronted
+	url = https://github.com/bjtu-hospital/doctor-fronted.git
+[submodule "repos/5-HospitalSystem/hospital-patient-frontend"]
+	path = repos/5-HospitalSystem/hospital-patient-frontend
+	url = https://github.com/bjtu-hospital/hospital-patient-frontend.git
+[submodule "repos/5-HospitalSystem/hospital-admin-frontend"]
+	path = repos/5-HospitalSystem/hospital-admin-frontend
+	url = https://github.com/bjtu-hospital/hospital-admin-frontend.git
+[submodule "repos/5-HospitalSystem/hospital-backend"]
+	path = repos/5-HospitalSystem/hospital-backend
+	url = https://github.com/bjtu-hospital/hospital-backend.git
+[submodule "repos/11-HospitalSystem/HospitalManage"]
+	path = repos/11-HospitalSystem/HospitalManage
+	url = https://github.com/ALKYH/HospitalManage
