@@ -27,18 +27,18 @@
 // 生成贡献者提交统计图表
 #let contributor-charts(repo) = {
   let data = json("repos/" + str(repo.group_number) + "-HospitalSystem/" + repo.repo_name + ".json")
-  
+
   // 1. 贡献者提交数量直方图
   let x-positions = ()
   let y-values = ()
   let labels = ()
-  
+
   for (i, contributor) in data.enumerate() {
     x-positions.push(i + 1)
     y-values.push(contributor.commits.len())
     labels.push(contributor.name)
   }
-  
+
   if x-positions.len() > 0 {
     figure(
       lq.diagram(
@@ -50,70 +50,91 @@
           x-positions,
           y-values,
           width: 0.6,
-          fill: rgb("#4CAF50")
-        )
+          fill: rgb("#4CAF50"),
+        ),
       ),
-      caption: [#repo.repo_name - 贡献者提交数量统计]
+      caption: [#repo.repo_name - 贡献者提交数量统计],
     )
   }
-  
-  // 2. 按周统计的提交趋势柱状图
+
+  // 2. 按周统计的提交趋势柱状图（每个贡献者一条柱）
   let weekly-data = (:)
-  
+  let all-weeks = ()
+
+  // 为每个贡献者统计每周的提交
   for contributor in data {
+    let contributor-weekly = (:)
+
     for commit in contributor.commits {
       // 解析日期并计算周数
       let date-parts = commit.date.split("-")
       let year = int(date-parts.at(0))
       let month = int(date-parts.at(1))
       let day = int(date-parts.at(2))
-      
+
       // 简化：使用 YYYY-WW 格式表示周
-      let week-key = date-parts.at(0) + "-W" + str(calc.floor((month - 1) * 4.33 + day / 7))
-      
-      if week-key in weekly-data {
-        weekly-data.insert(week-key, weekly-data.at(week-key) + 1)
+      let week-key = /*date-parts.at(0) + "-W" + */ str(calc.floor((month - 1) * 4.33 + day / 7))
+
+      if week-key not in all-weeks {
+        all-weeks.push(week-key)
+      }
+
+      if week-key in contributor-weekly {
+        contributor-weekly.insert(week-key, contributor-weekly.at(week-key) + 1)
       } else {
-        weekly-data.insert(week-key, 1)
+        contributor-weekly.insert(week-key, 1)
       }
     }
+
+    weekly-data.insert(contributor.name, contributor-weekly)
   }
-  
-  // 转换为排序的数组
-  let weekly-array = ()
-  for (week, count) in weekly-data {
-    weekly-array.push((week, count))
-  }
-  weekly-array = weekly-array.sorted(key: x => x.at(0))
-  
-  if weekly-array.len() > 0 {
-    let x-weeks = ()
-    let y-counts = ()
+
+  // 排序所有周
+  all-weeks = all-weeks.sorted()
+
+  if all-weeks.len() > 0 {
+    let colors = (rgb("#2196F3"), rgb("#4CAF50"), rgb("#FF9800"), rgb("#E91E63"), rgb("#9C27B0"), rgb("#00BCD4"), rgb("#FFEB3B"), rgb("#795548"))
     let week-labels = ()
-    
-    for (i, item) in weekly-array.enumerate() {
-      x-weeks.push(i + 1)
-      y-counts.push(item.at(1))
-      // 只显示部分标签以避免拥挤
-      if calc.rem(i, calc.max(1, calc.floor(weekly-array.len() / 10))) == 0 {
-        week-labels.push((i + 1, item.at(0)))
+
+    // 只显示部分标签以避免拥挤
+    for (i, week) in all-weeks.enumerate() {
+      if calc.rem(i, calc.max(1, calc.floor(all-weeks.len() / 10))) == 0 {
+        week-labels.push((i + 1, week))
       }
     }
-    
+
+    let bars = ()
+    for (idx, contributor) in data.enumerate() {
+      let y-counts = ()
+      for week in all-weeks {
+        if week in weekly-data.at(contributor.name) {
+          y-counts.push(weekly-data.at(contributor.name).at(week))
+        } else {
+          y-counts.push(0)
+        }
+      }
+
+      bars.push(lq.bar(
+        range(1, all-weeks.len() + 1),
+        y-counts,
+        width: 0.8 / data.len(),
+        offset: (idx - data.len() / 2.0 + 0.5) * 0.8 / data.len(),
+        fill: colors.at(calc.rem(idx, colors.len())),
+        label: contributor.name,
+      ))
+    }
+
+
     figure(
       lq.diagram(
         width: 80%,
         height: 2cm,
         xaxis: (label: "周", ticks: week-labels),
         yaxis: (label: "提交数量"),
-        lq.bar(
-          x-weeks,
-          y-counts,
-          width: 0.8,
-          fill: rgb("#2196F3")
-        )
+        legend: (position: (100% + 1em, 0%)),
+        ..bars,
       ),
-      caption: [#repo.repo_name - 每周提交趋势]
+      caption: [#repo.repo_name - 每周提交趋势（按贡献者）],
     )
   }
 }
@@ -164,7 +185,7 @@
       "repos/" + str(repo.group_number) + "-HospitalSystem/" + repo.repo_name + ".svg",
     )),
     numbering: none,
-    caption: [#repo.repo_name - Git 提交图]
+    caption: [#repo.repo_name - Git 提交图],
   )
 }
 
@@ -172,9 +193,9 @@
   let num = str(group_num)
   for repo in repos.at(num) {
     box(width: 100%, stroke: 1pt + rgb("#a6a6a6"), inset: 10pt, radius: 4pt)[
-    #git-graph-svg(repo)
-    // pagebreak(weak: true)
-    #contributor-charts(repo)
+      #git-graph-svg(repo)
+      // pagebreak(weak: true)
+      #contributor-charts(repo)
     ]
   }
   pagebreak(weak: true)
