@@ -1,0 +1,19 @@
+[
+  {
+    "name": "54shitaimzf",
+    "commits": [
+      {
+        "date": "2025-10-31",
+        "title": "Initialize UniApp medical appointment project"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "Integrate API-based department and schedule data"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "Refactor registration and user flows, update UI"
+      }
+    ]
+  }
+]

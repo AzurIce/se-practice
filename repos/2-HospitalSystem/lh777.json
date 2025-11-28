@@ -1,0 +1,830 @@
+[
+  {
+    "name": "yeye",
+    "commits": [
+      {
+        "date": "2025-09-16",
+        "title": "一个供参考的静态文件"
+      },
+      {
+        "date": "2025-09-18",
+        "title": "搭建完成前后端项目并进行前后端交互测试"
+      },
+      {
+        "date": "2025-09-19",
+        "title": "修改接口地址，新增gitignore忽略logs文件夹"
+      },
+      {
+        "date": "2025-09-19",
+        "title": "后端添加mysql配置"
+      },
+      {
+        "date": "2025-09-22",
+        "title": "合并zsq"
+      },
+      {
+        "date": "2025-09-22",
+        "title": "初步完成登录注册"
+      },
+      {
+        "date": "2025-09-23",
+        "title": "完成登陆注册两个接口，待进一步优化"
+      },
+      {
+        "date": "2025-09-23",
+        "title": "优化user.ts写法"
+      },
+      {
+        "date": "2025-09-26",
+        "title": "修改数据库文件"
+      },
+      {
+        "date": "2025-09-26",
+        "title": "新增数据库文件"
+      },
+      {
+        "date": "2025-09-26",
+        "title": "添加后端自定义全局异常管理器，并做前端响应适配"
+      },
+      {
+        "date": "2025-10-05",
+        "title": "完成权限校验适配"
+      },
+      {
+        "date": "2025-10-05",
+        "title": "适配TokenUtil"
+      },
+      {
+        "date": "2025-10-09",
+        "title": "适配管理员端登录"
+      },
+      {
+        "date": "2025-10-09",
+        "title": "适配管理员端登陆注册"
+      },
+      {
+        "date": "2025-10-10",
+        "title": "Merge branch 'zjy' of https://github.com/7ye7ye/lh777 into zjy"
+      },
+      {
+        "date": "2025-10-10",
+        "title": "web端适配登录注册"
+      },
+      {
+        "date": "2025-10-16",
+        "title": "修改.gitignore文件夹忽略.idea文件夹"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "Merge branch 'main' of https://github.com/7ye7ye/lh777 into cy"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "修复完成的后端"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "回复后端至75b3417d"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "恢复用户相关后端为10.5号完成权限校验版本，其它未改动"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "暂时修复好的后端"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "后端出现问题"
+      },
+      {
+        "date": "2025-10-18",
+        "title": "完成就诊卡创建查看功能，完成对功能的登录权限控制"
+      },
+      {
+        "date": "2025-10-19",
+        "title": "更新数据库文件"
+      },
+      {
+        "date": "2025-10-22",
+        "title": "cy在该分支完成冲突合并"
+      },
+      {
+        "date": "2025-10-22",
+        "title": "Merge branch 'zjy' of https://github.com/7ye7ye/lh777 into zjy"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "完成患者就诊卡新建与修改，就诊人显示，医生账户跳转医生端"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "cy本地合并远程main"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "Merge branch 'main' of https://github.com/7ye7ye/lh777"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "修改gitignore"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "更新gitignore"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "移除对 unpackage 构建目录的Git跟踪"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "更换云数据库版本为5.7"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "曹玥在此分支上本地有修改，未推送到该分支远程"
+      },
+      {
+        "date": "2025-11-11",
+        "title": "修改数据库配置为云数据库"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "修复被别人改坏的管理员端登陆注册功能并进一步完善"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "Merge branch 'main' of https://github.com/7ye7ye/lh777 into cy"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "取消对手机号和短信验证码的验证"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "完成管理员创建医生账号功能"
+      },
+      {
+        "date": "2025-11-25",
+        "title": "Merge branch 'main' of https://github.com/7ye7ye/lh777 into cy"
+      },
+      {
+        "date": "2025-11-25",
+        "title": "增加医生端底栏，修改医生端患者端切换方式新增权限控制，修改医生个人中心页面，新增医生个人信息更改并提交审核至管理员处理审批得到信息变更功能"
+      },
+      {
+        "date": "2025-11-25",
+        "title": "Merge branch 'main' of https://github.com/7ye7ye/lh777 into cy"
+      },
+      {
+        "date": "2025-11-25",
+        "title": "修复就诊卡功能bug并添加用户友好提示"
+      },
+      {
+        "date": "2025-11-25",
+        "title": "Merge branch 'main' of https://github.com/7ye7ye/lh777 into cy"
+      },
+      {
+        "date": "2025-11-25",
+        "title": "修复创建就诊卡功能已有的bug，并添加用户友好提示"
+      },
+      {
+        "date": "2025-11-25",
+        "title": "临时提交误提交到cr分支的内容"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "修复解绑就诊卡及不同就诊人显示的bug"
+      }
+    ]
+  },
+  {
+    "name": "7ye7ye",
+    "commits": [
+      {
+        "date": "2025-09-22",
+        "title": "Merge pull request #5 from 7ye7ye/cy"
+      },
+      {
+        "date": "2025-09-22",
+        "title": "Merge pull request #4 from 7ye7ye/zsq"
+      },
+      {
+        "date": "2025-09-23",
+        "title": "Merge pull request #7 from 7ye7ye/cy"
+      },
+      {
+        "date": "2025-09-23",
+        "title": "Merge pull request #6 from 7ye7ye/cy"
+      },
+      {
+        "date": "2025-09-26",
+        "title": "Merge pull request #10 from 7ye7ye/cy"
+      },
+      {
+        "date": "2025-09-26",
+        "title": "Merge pull request #9 from 7ye7ye/cy"
+      },
+      {
+        "date": "2025-09-26",
+        "title": "Merge pull request #8 from 7ye7ye/cy"
+      },
+      {
+        "date": "2025-10-05",
+        "title": "Merge pull request #11 from 7ye7ye/cy"
+      },
+      {
+        "date": "2025-10-10",
+        "title": "Merge pull request #12 from 7ye7ye/cy"
+      },
+      {
+        "date": "2025-10-16",
+        "title": "Merge pull request #14 from 7ye7ye/wzz"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "Merge pull request #16 from 7ye7ye/cy"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "Merge pull request #13 from 7ye7ye/zsq"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "Merge pull request #15 from 7ye7ye/wzz"
+      },
+      {
+        "date": "2025-10-19",
+        "title": "Merge pull request #18 from 7ye7ye/cy"
+      },
+      {
+        "date": "2025-10-22",
+        "title": "Merge pull request #20 from 7ye7ye/zjy"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "Merge pull request #24 from 7ye7ye/cy"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "Delete 校医院挂号系统/unpackage/dist/dev directory"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "Merge pull request #23 from 7ye7ye/cy"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "Merge pull request #22 from 7ye7ye/cy"
+      },
+      {
+        "date": "2025-11-02",
+        "title": "Merge pull request #25 from 7ye7ye/zsq2"
+      },
+      {
+        "date": "2025-11-02",
+        "title": "Merge branch 'main' into zsq2"
+      },
+      {
+        "date": "2025-11-11",
+        "title": "Merge pull request #26 from 7ye7ye/zjy"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "Merge pull request #32 from 7ye7ye/cy"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "Merge pull request #31 from 7ye7ye/zjy"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "Merge pull request #30 from 7ye7ye/cr"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "Merge pull request #29 from 7ye7ye/wzz"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "Merge pull request #33 from 7ye7ye/cy"
+      },
+      {
+        "date": "2025-11-23",
+        "title": "Merge pull request #37 from 7ye7ye/cr"
+      },
+      {
+        "date": "2025-11-23",
+        "title": "Merge pull request #36 from 7ye7ye/zsq2"
+      },
+      {
+        "date": "2025-11-23",
+        "title": "Merge pull request #35 from 7ye7ye/zjy"
+      },
+      {
+        "date": "2025-11-25",
+        "title": "Merge pull request #42 from 7ye7ye/cy"
+      },
+      {
+        "date": "2025-11-25",
+        "title": "Merge pull request #41 from 7ye7ye/wzz"
+      },
+      {
+        "date": "2025-11-25",
+        "title": "Merge pull request #40 from 7ye7ye/cy"
+      },
+      {
+        "date": "2025-11-25",
+        "title": "Merge pull request #34 from 7ye7ye/wzz"
+      },
+      {
+        "date": "2025-11-25",
+        "title": "Merge pull request #38 from 7ye7ye/zjy"
+      },
+      {
+        "date": "2025-11-25",
+        "title": "Merge pull request #39 from 7ye7ye/zsq2"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "Merge pull request #45 from 7ye7ye/cy"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "Merge pull request #44 from 7ye7ye/cr"
+      }
+    ]
+  },
+  {
+    "name": "zjy314315",
+    "commits": [
+      {
+        "date": "2025-10-10",
+        "title": "1"
+      },
+      {
+        "date": "2025-10-11",
+        "title": "Commit uncommitted changes on zjy2"
+      },
+      {
+        "date": "2025-10-11",
+        "title": "医生端部分前端（排班/患者信息/个人信息）"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "Merge branch 'main' of https://github.com/7ye7ye/lh777"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "医生前端"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "Merge branch 'main' of https://github.com/7ye7ye/lh777"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "主分支内容"
+      },
+      {
+        "date": "2025-10-18",
+        "title": "Merge branch 'main' of https://github.com/7ye7ye/lh777"
+      },
+      {
+        "date": "2025-10-18",
+        "title": "存一下，有一点后端，还没测试"
+      },
+      {
+        "date": "2025-10-22",
+        "title": "数据库更新"
+      },
+      {
+        "date": "2025-10-22",
+        "title": "Merge branch 'main' into zjy"
+      },
+      {
+        "date": "2025-10-22",
+        "title": "完成医生列表后端连接以及患者列表后端连接"
+      },
+      {
+        "date": "2025-10-24",
+        "title": "Merge remote-tracking branch 'origin/zjy' into zjy"
+      },
+      {
+        "date": "2025-10-24",
+        "title": "申请调班后端连接"
+      },
+      {
+        "date": "2025-10-24",
+        "title": "申请调班后端连接成功"
+      },
+      {
+        "date": "2025-10-28",
+        "title": "后端连接，但是医生个人信息的后端获取不到数据"
+      },
+      {
+        "date": "2025-10-29",
+        "title": "个人信息界面数据传输成功"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "患者信息数据传输成功，上传信息不行"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "患者详情数据连接成功，接诊状态不行"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "备份"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "坏了"
+      },
+      {
+        "date": "2025-11-05",
+        "title": "医生端基本功能后端完成"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "冲突解决"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "存档"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "除了申请排班没接"
+      },
+      {
+        "date": "2025-11-08",
+        "title": "医生端除了一些细节按钮和加号还未处理，剩下都ok"
+      },
+      {
+        "date": "2025-11-15",
+        "title": "管理员调班审核以及排版查看完成"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "管理员排班合并完成"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "冲突合并"
+      },
+      {
+        "date": "2025-11-23",
+        "title": "医生请假完成，已经跟main合并，医生端bug也处理了"
+      },
+      {
+        "date": "2025-11-23",
+        "title": "医生请假"
+      },
+      {
+        "date": "2025-11-24",
+        "title": "改了排版规则，改了同意调班后挂号数据库的更改"
+      },
+      {
+        "date": "2025-11-24",
+        "title": "改了排版规则，改了同意调班后挂号数据库的更改"
+      }
+    ]
+  },
+  {
+    "name": "zhizhu505",
+    "commits": [
+      {
+        "date": "2025-10-11",
+        "title": "Merge branch 'main' into wzz"
+      },
+      {
+        "date": "2025-10-11",
+        "title": "上传了消息中心图标页面"
+      },
+      {
+        "date": "2025-10-16",
+        "title": "增加了分包，现在在解决图片压缩问题"
+      },
+      {
+        "date": "2025-10-16",
+        "title": "10.16利用假数据完成消息通知中心功能"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "Merge branch 'main' into wzz"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "准备拉取修复好的主分支"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "Merge branch 'main' into wzz"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "完成了分包与图片压缩"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "实现了图片压缩，更新了文件夹中的原有图片"
+      },
+      {
+        "date": "2025-10-23",
+        "title": "拉取10.22最新更新，恢复了消息页面与之前被删除的数据库表，把医生端按钮位置下移，解决了所有冲突"
+      },
+      {
+        "date": "2025-10-23",
+        "title": "Merge branch 'main' into wzz"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "Merge branch 'main' into wzz"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "移除已跟踪的unpackage文件夹"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "准备拉取加入云数据库的主分支，现无其他问题"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "11.6修复问题，准备加入就诊前一天的提醒功能"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "Merge branch 'main' into wzz"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "完成假数据测试预约成功和提醒消息，八点定时提醒功能已经完成（不依赖API，独立运行，还未测试），立即通知功能需要调用接口实现，需和挂号功能相联系，逻辑就是挂号成功后调用接口，同时插入挂号信息和预约成功通知"
+      },
+      {
+        "date": "2025-11-17",
+        "title": "和zsq2分支合并，修复医生列表显示，并美化医院信息界面，加入导航功能"
+      },
+      {
+        "date": "2025-11-17",
+        "title": "Merge remote-tracking branch 'origin/zsq2' into wzz"
+      },
+      {
+        "date": "2025-11-17",
+        "title": "医院信息页面完成部分美化，实现地址栏导航图标点击跳转到地图，准备开发院内导航和就医指南功能"
+      },
+      {
+        "date": "2025-11-17",
+        "title": "11.17解决合并冲突"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "11.20完成预约挂号成功消息与就诊提醒消息通知功能"
+      },
+      {
+        "date": "2025-11-23",
+        "title": "11.23准备开发院内导航页面，之前的功能无误"
+      },
+      {
+        "date": "2025-11-24",
+        "title": "11.24完成院内导航所有功能开发，准备开发后续消息通知功能"
+      },
+      {
+        "date": "2025-11-25",
+        "title": "1）实现就诊卡绑定userid与patientid，修复patientid固定为1的bug；2）实现退号成功消息通知"
+      },
+      {
+        "date": "2025-11-25",
+        "title": "Merge branch 'main' into wzz"
+      },
+      {
+        "date": "2025-11-25",
+        "title": "11.25 18:30完成取消挂号消息通知"
+      },
+      {
+        "date": "2025-11-25",
+        "title": "正常挂号逻辑修复，候补通知userid存在问题"
+      }
+    ]
+  },
+  {
+    "name": "zsq",
+    "commits": [
+      {
+        "date": "2025-09-19",
+        "title": "Merge branch 'main' of https://github.com/7ye7ye/lh777 into zsq"
+      },
+      {
+        "date": "2025-09-19",
+        "title": "Merge branch 'main' of https://github.com/7ye7ye/lh777 into zsq"
+      },
+      {
+        "date": "2025-09-19",
+        "title": "ui"
+      },
+      {
+        "date": "2025-09-21",
+        "title": "调整目录"
+      },
+      {
+        "date": "2025-09-21",
+        "title": "个人中心ui"
+      },
+      {
+        "date": "2025-09-22",
+        "title": "调整图标"
+      },
+      {
+        "date": "2025-09-22",
+        "title": "完善首页和医院信息页"
+      },
+      {
+        "date": "2025-09-22",
+        "title": "增加图标"
+      },
+      {
+        "date": "2025-10-08",
+        "title": "科室模块"
+      },
+      {
+        "date": "2025-10-10",
+        "title": "科室"
+      },
+      {
+        "date": "2025-10-11",
+        "title": "科室内容，新增web"
+      },
+      {
+        "date": "2025-10-11",
+        "title": "Merge branch 'main' of https://github.com/7ye7ye/lh777 into zsq"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "Merge branch 'main' of https://github.com/7ye7ye/lh777 into zsq"
+      },
+      {
+        "date": "2025-10-18",
+        "title": "体检"
+      },
+      {
+        "date": "2025-10-18",
+        "title": "科室与医生信息完善，体检中心完善，新增脚本文件，科室与医生信息暂时使用前端api的虚拟数据"
+      },
+      {
+        "date": "2025-10-18",
+        "title": "科室与医生信息更新"
+      },
+      {
+        "date": "2025-10-22",
+        "title": "忽略target编译目录，移除误跟踪的application.yml"
+      },
+      {
+        "date": "2025-10-22",
+        "title": "提交本地对SysBaseAPIFallback.java的修改"
+      },
+      {
+        "date": "2025-10-22",
+        "title": "解决与origin/main的合并冲突：profile.vue"
+      },
+      {
+        "date": "2025-10-23",
+        "title": "修复医院系统医生科室信息对接，解决Mapper XML冲突问题"
+      },
+      {
+        "date": "2025-11-01",
+        "title": "科室医生开发"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "挂号功能合并与转诊初步开发"
+      }
+    ]
+  },
+  {
+    "name": "just",
+    "commits": [
+      {
+        "date": "2025-11-14",
+        "title": "修改doctor.ts引用为doctor_massage.ts"
+      },
+      {
+        "date": "2025-11-17",
+        "title": "合并并解决冲突"
+      },
+      {
+        "date": "2025-11-17",
+        "title": "修复医生相关功能的多个问题：1. 修复DoctorServiceImpl中使用不存在的create_time字段排序问题；2. 修复前端doctorApi对象中缺少getDoctorDetail方法问题"
+      },
+      {
+        "date": "2025-11-17",
+        "title": "解决所有合并冲突，保留本地修改并整合远程代码"
+      },
+      {
+        "date": "2025-11-17",
+        "title": "修复RegistrationRecord.java合并冲突并添加doctor_massage.ts文件"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "web端的科室医生管理，小程序端的转诊初步开发"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "解决stash pop冲突，保留完善的异步实现和错误处理逻辑"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "解决合并冲突，保留isTransformResponse修改并合并新功能"
+      },
+      {
+        "date": "2025-11-23",
+        "title": "修复"
+      },
+      {
+        "date": "2025-11-23",
+        "title": "更新医生管理相关功能，包括后端API、前端页面和路由配置"
+      },
+      {
+        "date": "2025-11-23",
+        "title": "优化科室(Department)相关文件：添加自动字段填充和数据源切换注解"
+      },
+      {
+        "date": "2025-11-24",
+        "title": "修复bug"
+      },
+      {
+        "date": "2025-11-25",
+        "title": "Merge branch 'main' of https://github.com/7ye7ye/lh777 into zsq2"
+      },
+      {
+        "date": "2025-11-25",
+        "title": "修复pages.json和profile.vue的合并冲突"
+      },
+      {
+        "date": "2025-11-26",
+        "title": "初步增加转诊页面，更新了按科室挂号的页面"
+      }
+    ]
+  },
+  {
+    "name": "Lisvu_chen",
+    "commits": [
+      {
+        "date": "2025-11-12",
+        "title": "完善不能重复挂号逻辑"
+      },
+      {
+        "date": "2025-11-12",
+        "title": "挂号完整前后端逻辑--未完成候补等补充功能"
+      },
+      {
+        "date": "2025-11-17",
+        "title": "不能重复候补逻辑补充"
+      },
+      {
+        "date": "2025-11-17",
+        "title": "加入候补"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "完成merge--挂号+候补"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "Merge branch 'main' of https://github.com/7ye7ye/lh777 into cr"
+      },
+      {
+        "date": "2025-11-23",
+        "title": "merge"
+      },
+      {
+        "date": "2025-11-23",
+        "title": "Merge branch 'main' into cr"
+      },
+      {
+        "date": "2025-11-23",
+        "title": "退号+候补成功"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "候补成功+挂号候补查询完整版"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "完善挂号结果查询"
+      }
+    ]
+  },
+  {
+    "name": "just735",
+    "commits": [
+      {
+        "date": "2025-11-26",
+        "title": "Merge pull request #43 from 7ye7ye/zsq2"
+      }
+    ]
+  }
+]

@@ -96,6 +96,12 @@
     "repo_name": "backend"
   },
   {
+    "group_number": 8,
+    "git_url": "https://github.com/hospital-BJTU/frontend.git",
+    "git_branch": "Frontend",
+    "repo_name": "frontend"
+  },
+  {
     "group_number": 9,
     "git_url": "https://github.com/Malahaitai8/YiDianTong",
     "git_branch": "dev",

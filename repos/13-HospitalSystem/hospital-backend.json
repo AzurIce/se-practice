@@ -1,0 +1,415 @@
+[
+  {
+    "name": "贾鹏",
+    "commits": [
+      {
+        "date": "2025-10-14",
+        "title": "根据相对路径显示图片"
+      },
+      {
+        "date": "2025-10-14",
+        "title": "Merge branch 'master' of https://github.com/Lxlorange/hospital-backend"
+      },
+      {
+        "date": "2025-10-14",
+        "title": "更新文件"
+      },
+      {
+        "date": "2025-10-14",
+        "title": "Stop tracking target directory"
+      },
+      {
+        "date": "2025-10-14",
+        "title": "验证码功能"
+      },
+      {
+        "date": "2025-10-14",
+        "title": "完成用户登录注册和医生团队部分接口"
+      },
+      {
+        "date": "2025-10-14",
+        "title": "上传部分配置文件"
+      },
+      {
+        "date": "2025-10-14",
+        "title": "完成后端token验证类"
+      },
+      {
+        "date": "2025-10-14",
+        "title": "Initial commit"
+      },
+      {
+        "date": "2025-10-15",
+        "title": "更新排班部分接口"
+      },
+      {
+        "date": "2025-10-15",
+        "title": "更新排版部分接口"
+      },
+      {
+        "date": "2025-10-15",
+        "title": "医生个人主页修改后端接口"
+      },
+      {
+        "date": "2025-10-15",
+        "title": "医院科室和医生团队后端接口"
+      },
+      {
+        "date": "2025-10-15",
+        "title": "完成权限分配功能"
+      },
+      {
+        "date": "2025-10-15",
+        "title": "实现角色权限部分功能"
+      },
+      {
+        "date": "2025-10-18",
+        "title": "患者移动端部分实体"
+      },
+      {
+        "date": "2025-10-18",
+        "title": "挂号人部分后端接口"
+      },
+      {
+        "date": "2025-10-18",
+        "title": "患者端用户部分后端接口"
+      },
+      {
+        "date": "2025-10-18",
+        "title": "网站就诊后端部分接口"
+      },
+      {
+        "date": "2025-10-18",
+        "title": "挂号部分后端接口"
+      },
+      {
+        "date": "2025-10-18",
+        "title": "发布新闻后端接口"
+      },
+      {
+        "date": "2025-10-18",
+        "title": "信息通知后端接口"
+      },
+      {
+        "date": "2025-10-19",
+        "title": "排版实体新增时间段和挂号费两个字段"
+      },
+      {
+        "date": "2025-10-19",
+        "title": "补充移动端部分后端接口"
+      },
+      {
+        "date": "2025-10-19",
+        "title": "患者移动端部分后端接口"
+      },
+      {
+        "date": "2025-10-26",
+        "title": "更新医生端部分查询自己排班和挂号数量接口"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "根据时间ID获取排班ID接口和文档"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "配置文件"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "配置文件"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "配置文件"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "Merge remote-tracking branch 'origin/dev' into dev"
+      },
+      {
+        "date": "2025-11-05",
+        "title": "评价功能后端相应的代码"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "Merge remote-tracking branch 'origin/master'"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "候补"
+      },
+      {
+        "date": "2025-11-15",
+        "title": "挂号就诊统计后端"
+      },
+      {
+        "date": "2025-11-15",
+        "title": "网页端显示候补患者"
+      },
+      {
+        "date": "2025-11-15",
+        "title": "患者端显示候补记录"
+      },
+      {
+        "date": "2025-11-22",
+        "title": "修改信息和档案"
+      },
+      {
+        "date": "2025-11-22",
+        "title": "身份认证和报销兼容"
+      },
+      {
+        "date": "2025-11-22",
+        "title": "根据身份设计报销比例"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "Merge remote-tracking branch 'origin/master'"
+      }
+    ]
+  },
+  {
+    "name": "misaka",
+    "commits": [
+      {
+        "date": "2025-10-15",
+        "title": "updated doc"
+      },
+      {
+        "date": "2025-10-15",
+        "title": "fixed"
+      },
+      {
+        "date": "2025-10-16",
+        "title": "bug fix"
+      },
+      {
+        "date": "2025-10-24",
+        "title": "加号接口"
+      },
+      {
+        "date": "2025-10-24",
+        "title": "加号接口"
+      },
+      {
+        "date": "2025-10-24",
+        "title": "加号接口"
+      },
+      {
+        "date": "2025-10-26",
+        "title": "增添患者查询接口,辅助加号"
+      },
+      {
+        "date": "2025-10-26",
+        "title": "增添患者查询接口,辅助加号"
+      },
+      {
+        "date": "2025-10-26",
+        "title": "增添患者查询接口,辅助加号"
+      },
+      {
+        "date": "2025-10-28",
+        "title": "请假借口"
+      },
+      {
+        "date": "2025-10-28",
+        "title": "Merge branch 'dev' into leaveRequest"
+      },
+      {
+        "date": "2025-10-28",
+        "title": "fixed .gitignore"
+      },
+      {
+        "date": "2025-10-28",
+        "title": "removed the docs"
+      },
+      {
+        "date": "2025-10-28",
+        "title": "请假借口"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "bugfix"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "bugfix"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "bugfix"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "bugfix"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "bugfix"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "bugfix"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "bugfix"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "注册认证系统"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "bugfix"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "merged new leaveRequest"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "患者挂号改签及请假借口逻辑修改"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "取消为0才能加号"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "bugfix"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "merged plat"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "testing"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "added White List"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "added White List"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "完成LLM接口"
+      }
+    ]
+  },
+  {
+    "name": "mark2330",
+    "commits": [
+      {
+        "date": "2025-10-16",
+        "title": "完成接口+能上swagger"
+      },
+      {
+        "date": "2025-10-16",
+        "title": "swagger配置了一部分+数据库添加号别"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "还原状态"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "还原状态"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "Update TokenFilter.java"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "修改保存模版接口"
+      },
+      {
+        "date": "2025-10-20",
+        "title": "删掉多余的实体和mapper"
+      },
+      {
+        "date": "2025-10-20",
+        "title": "Merge branch 'master' of https://github.com/Lxlorange/hospital-backend"
+      },
+      {
+        "date": "2025-10-20",
+        "title": "修改排班接口以适应新表"
+      },
+      {
+        "date": "2025-10-23",
+        "title": "完成取消挂号接口"
+      },
+      {
+        "date": "2025-10-23",
+        "title": "预约号接口"
+      },
+      {
+        "date": "2025-10-23",
+        "title": "实现登录token输出"
+      },
+      {
+        "date": "2025-10-28",
+        "title": "Merge branch 'master' of https://github.com/Lxlorange/hospital-backend"
+      },
+      {
+        "date": "2025-10-28",
+        "title": "更新markdown"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "实现预约发送邮件功能"
+      },
+      {
+        "date": "2025-11-01",
+        "title": "修复bug，现在同一账号可以为不同就诊人在同一时段约同一个医生了"
+      },
+      {
+        "date": "2025-11-05",
+        "title": "提交挂号获取号别信息的接口"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "重写接口，使可以返回就诊位置和价格，并重新添加了测试数据"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "修复上下午显示，重写接口使"
+      },
+      {
+        "date": "2025-11-22",
+        "title": "完成了医生获取患者信息后端"
+      }
+    ]
+  },
+  {
+    "name": "Yhr",
+    "commits": [
+      {
+        "date": "2025-10-28",
+        "title": "docs文件夹"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "Merge branch 'master' of github.com:Lxlorange/hospital-backend"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "防bot"
+      }
+    ]
+  },
+  {
+    "name": "2307289009",
+    "commits": [
+      {
+        "date": "2025-10-14",
+        "title": "Delete target"
+      }
+    ]
+  }
+]

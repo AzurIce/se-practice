@@ -1,0 +1,229 @@
+[
+  {
+    "name": "Claude",
+    "commits": [
+      {
+        "date": "2025-11-20",
+        "title": "添加详细日志以诊断排班接口超时问题"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "修复新增排班接口调用错误并添加模拟医生数据"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "新增批量创建排班功能：适配CreateNextWeekSchedule接口"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "修复删除排班按钮对齐问题：设置按钮宽度为100%确保垂直对齐"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "修复排班操作按钮对齐问题：移除内联样式，统一使用CSS控制按钮宽度和间距"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "新增排班卡片交互功能：支持点击排班卡片进行调班或删除操作"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "实现数据格式转换：将按星期分组的数据转换为表格需要的数组格式"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "添加后端数据格式调试日志并修复数组判断"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "修复 400 错误：参数名从 depart_name 改为 departName"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "添加详细日志用于调试 400 错误"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "新增周次查询接口支持：保留日期查询功能，增加周次查询"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "更新医生排班查询页面的科室模拟数据"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "修复登录后 token 未正确保存的问题"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "修复 getSchedulesHistory 接口参数传递错误"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "修改医生排班查询接口：使用科室名称代替科室ID"
+      },
+      {
+        "date": "2025-11-26",
+        "title": "移除排班删除的 tooltip 弹窗并实现删除功能"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "feat: 添加排班停诊状态显示和按钮禁用功能"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "fix: 修复stopSingle/Schedule接口使用错误的数据发送格式"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "fix: 修复排班查询中schedule_id和template_id字段未正确保存的Bug"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "feat: 改造调班申请界面为批量延后排班功能"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "feat: 添加调班申请对话框，优化用户体验"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "feat: 支持从排班卡片快速发起调班申请"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "feat: 改进调班申请界面，适配新的API接口"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "fix: 修正批量停诊API字段名为template_id"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "fix: 优化批量停诊UI交互体验"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "feat: 添加批量停诊功能"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "fix: 通过医生姓名匹配获取userId作为医生ID"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "debug: 添加医生ID获取的调试日志和多字段兼容"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "feat: 实现调班申请功能，对接新的调班接口"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "feat: 从查询结果动态生成时段选项"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "fix: 修正批量延后排班API格式为嵌套时间对象"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "fix: 移除合并冲突时引入的错误监听器代码"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "fix: 清理未使用的导入，修复潜在的编译警告"
+      }
+    ]
+  },
+  {
+    "name": "sisifuCha",
+    "commits": [
+      {
+        "date": "2025-10-23",
+        "title": "Initial commit"
+      },
+      {
+        "date": "2025-10-29",
+        "title": "Merge remote-tracking branch 'origin/zhr'"
+      },
+      {
+        "date": "2025-11-02",
+        "title": "前端：完成医生查询界面的前端并已经联通相应后端代码。尚未完成根据医生职称查询医生的映射（首先后端从数据库查职称的名称和职称的ID的映射，然后把映射返回给前端，前端再用对应的映射进行查询）不知道这么做是否合理其实，可以在issue里面讨论一下。"
+      },
+      {
+        "date": "2025-11-03",
+        "title": "前端：完成医生查询界面的前端并已经联通相应后端代码。尚未完成根据医生职称查询医生的映射（首先后端从数据库查职称的名称和职称的ID的映射，然后把映射返回给前端，前端再用对应的映射进行查询）不知道这么做是否合理其实，可以在issue里面讨论一下。"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "Merge pull request #2 from sisifuCha/feature-schedule"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "前端完成医生排班查询和加号调班等基础界面，尚未和后端连接上。"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "前端完成医生排班查询和加号调班等基础界面，尚未和后端连接上。"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "Merge pull request #3 from sisifuCha/claude/doctor-schedule-query-01WeGq8CpPL7nxpU8EyNUPYF"
+      },
+      {
+        "date": "2025-11-26",
+        "title": "Merge pull request #4 from sisifuCha/claude/doctor-schedule-query-01WeGq8CpPL7nxpU8EyNUPYF"
+      },
+      {
+        "date": "2025-11-26",
+        "title": "修复了依据日期查询当周排班的显示bug。（部分）"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "Merge pull request #7 from sisifuCha/claude/add-batch-stop-schedule-01WvqiayTPzyQsaHi5Bp5GoB"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "批量停诊 字段对齐"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "Merge pull request #6 from sisifuCha/claude/remove-shift-delete-tooltip-01GemmLFH27f4zEFzjpLT5Sy"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "停诊单个排班接口开发完成"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "Merge pull request #10 from sisifuCha/claude/schedule-change-request-01B5ZSxwk1RkU1E7Qc6efJtP"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "Merge pull request #9 from sisifuCha/claude/schedule-change-request-01B5ZSxwk1RkU1E7Qc6efJtP"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "Merge remote-tracking branch 'origin/master' into claude/schedule-change-request-01B5ZSxwk1RkU1E7Qc6efJtP"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "Merge pull request #8 from sisifuCha/claude/log-schedule-changes-013muhvpZfGyZbBui4Maa9p8"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "批量停诊和单个排班停诊 模拟数据更改"
+      }
+    ]
+  },
+  {
+    "name": "ZhiYuan-23301024",
+    "commits": [
+      {
+        "date": "2025-10-23",
+        "title": "前端initial"
+      }
+    ]
+  }
+]

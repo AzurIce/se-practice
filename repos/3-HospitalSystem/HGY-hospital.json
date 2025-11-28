@@ -1,0 +1,591 @@
+[
+  {
+    "name": "ZhiYuan-23301024",
+    "commits": [
+      {
+        "date": "2025-10-23",
+        "title": "管理员登录"
+      },
+      {
+        "date": "2025-10-25",
+        "title": "数据库配置"
+      },
+      {
+        "date": "2025-10-25",
+        "title": "第二次提交"
+      },
+      {
+        "date": "2025-10-27",
+        "title": "完成了更新医生信息的功能"
+      },
+      {
+        "date": "2025-10-29",
+        "title": "完成了根据不通筛选条件获取医生信息的功能"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "更新department字段相关内容"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "完成根据医生id获取医生信息的功能"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "完成获取当周或下周的某科室排班表的功能"
+      },
+      {
+        "date": "2025-11-01",
+        "title": "Merge pull request #10 from sisifuCha/zhr"
+      },
+      {
+        "date": "2025-11-01",
+        "title": "Merge pull request #8 from sisifuCha/revert-7-zhr"
+      },
+      {
+        "date": "2025-11-01",
+        "title": "Revert \"完成了根据周次获取排班表功能\""
+      },
+      {
+        "date": "2025-11-01",
+        "title": "Merge pull request #7 from sisifuCha/zhr"
+      },
+      {
+        "date": "2025-11-03",
+        "title": "Merge pull request #11 from sisifuCha/zhr"
+      },
+      {
+        "date": "2025-11-03",
+        "title": "更改getDoctors的方法为post"
+      },
+      {
+        "date": "2025-11-04",
+        "title": "完成jwt鉴权功能开发"
+      },
+      {
+        "date": "2025-11-04",
+        "title": "Merge pull request #12 from sisifuCha/zhr"
+      },
+      {
+        "date": "2025-11-04",
+        "title": "完成jwt鉴权功能开发"
+      },
+      {
+        "date": "2025-11-05",
+        "title": "修改父pom"
+      },
+      {
+        "date": "2025-11-05",
+        "title": "修改父pom"
+      },
+      {
+        "date": "2025-11-05",
+        "title": "修改了一个小瑕疵"
+      },
+      {
+        "date": "2025-11-05",
+        "title": "Merge pull request #13 from sisifuCha/feature-about-doctor"
+      },
+      {
+        "date": "2025-11-05",
+        "title": "Merge branch 'dev' into feature-about-doctor"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "搭建了schedule框架"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "新建schedule相关pojo，设置默认医生空余号源"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "Merge pull request #15 from sisifuCha/zhr"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "搭建了schedule框架"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "新建schedule相关pojo，设置默认医生空余号源"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "适配新数据库"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "演示"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "Merge pull request #16 from sisifuCha/feature/patient"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "Merge branch 'dev' into feature/patient"
+      },
+      {
+        "date": "2025-11-10",
+        "title": "完成插入下周排班表功能开发"
+      },
+      {
+        "date": "2025-11-10",
+        "title": "完成id计数器配置，id计数器的作用是在jvm里面进行各个id的自增，避免频繁地与数据库进行io。初步完成插入新排班的service层代码"
+      },
+      {
+        "date": "2025-11-11",
+        "title": "Merge pull request #17 from sisifuCha/zhr"
+      },
+      {
+        "date": "2025-11-11",
+        "title": "完成下周排班插入功能开发"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "Merge pull request #20 from sisifuCha/feature/admin"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "Merge branch 'dev' into feature/admin"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "Merge pull request #19 from sisifuCha/feature-doctor-period-2"
+      },
+      {
+        "date": "2025-11-17",
+        "title": "修改获取排班接口，将名称字段映射做在后端"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "完成删除指定排班功能"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "Merge branch 'dev'"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "Merge pull request #23 from sisifuCha/feature/patient"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "Merge pull request #21 from sisifuCha/feature-doctor-period-2"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "Merge pull request #22 from sisifuCha/feature/admin"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "统一修改了返回的排班表视图，包含医生名字，医生剩余号源，医生科室，时段和日期"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "原插入排班时,最大id获取的算法有问题，现已修正"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "修改了bug"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "修改创建排班，让管理员可以指定任意一周的排班。添加获取任意一周的排班历史功能。"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "完成了延后批量排班的功能"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "完成了终结批量排班的功能"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "完成了终结单个排班的功能"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "给医生和排班的返回视图加了id字段"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "测试"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "Revert \"2025-11-28\""
+      },
+      {
+        "date": "2025-11-28",
+        "title": "Merge pull request #27 from sisifuCha/zhr"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "给返回的排班对象添加status字段"
+      }
+    ]
+  },
+  {
+    "name": "54shitaimzf",
+    "commits": [
+      {
+        "date": "2025-10-29",
+        "title": "Add user controller and JWT utility classes"
+      },
+      {
+        "date": "2025-10-29",
+        "title": "Add user and patient entity, DTOs, mappers, and service interface"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "Add config classes for CORS, MyBatisPlus, and SSH"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "Add config classes for CORS, MyBatisPlus, and SSH"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "Add config classes for CORS, MyBatisPlus, and SSH"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "Enhance patient registration validation and mapping"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "Add user login and registration backend for PatientService"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "Enhance patient registration validation and mapping"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "Add user login and registration backend for PatientService"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "Enhance patient registration validation and mapping"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "Add user login and registration backend for PatientService"
+      },
+      {
+        "date": "2025-11-03",
+        "title": "Update database config and improve user mapping"
+      },
+      {
+        "date": "2025-11-03",
+        "title": "Update database config and improve user mapping"
+      },
+      {
+        "date": "2025-11-03",
+        "title": "Update database config and improve user mapping"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "feat: backend interface for register"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "feat: backend interface for register"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "feat: backend interface for register"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "feat: reshape backend API"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "doc: API help doc"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "doc: add API helper and test http file"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "feat: reshape backend API"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "doc: API help doc"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "doc: add API helper and test http file"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "feat: reshape backend API"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "doc: API help doc"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "doc: add API helper and test http file"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "refactor: simplify type reference usage and remove unused imports"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "feat: add department management functionality with hierarchical structure"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "本地改动说明"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "Merge remote-tracking branch 'origin/feature/patient' into feature/patient"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "refactor: simplify type reference usage and remove unused imports"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "feat: add department management functionality with hierarchical structure"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "本地改动说明"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "feat: implement registration API with create and cancel functionalities"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "feat: implement registration API with create and cancel functionalities"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "feat: add patient profile management and retrieve patient ID by account"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "feat: add patient profile management and retrieve patient ID by account"
+      }
+    ]
+  },
+  {
+    "name": "ABLT1273",
+    "commits": [
+      {
+        "date": "2025-10-26",
+        "title": "初始化第一版医生端API文档，未编写代码"
+      },
+      {
+        "date": "2025-10-29",
+        "title": "完成第一版医生后端"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "Merge branch 'feature-about-doctor' of https://github.com/sisifuCha/HGY-hospital into feature-about-doctor"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "完成医生端登录*2"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "完成医生端登录"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "校验登录逻辑，未完成前后端对接"
+      },
+      {
+        "date": "2025-11-03",
+        "title": "编写并验证医生端后端接口：获取加号、获取排班表、医生信息获取；适配新数据库，修改原查询中使用‘ID’导致的大小写问题"
+      },
+      {
+        "date": "2025-11-05",
+        "title": "小改dependency格式（内容未调整）"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "新文件夹script：实现向指定科室插入排班记录 使用方法： 修改目标科室 运行generate_schedule_sql.py 运行产生的.sql"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "医生后端2段：兼容与完善 修复医生端JSqlParser兼容问题 未修改父pom内容，仅纠正格式错误"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "删除空行"
+      },
+      {
+        "date": "2025-11-09",
+        "title": "修改排班表相关接口，未测试"
+      },
+      {
+        "date": "2025-11-09",
+        "title": "修改：明确排班变更记录-请求类型及对应类型的应接受参数，修改面向数据库表排班变更更记录表schedule-change-record的接口"
+      },
+      {
+        "date": "2025-11-11",
+        "title": "转移查询条件：现在医生会排班到不同诊室，索引为doc_schedule_record表clinic_id"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "修复了合并后的doctorService启动错误"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "覆盖医生端pom"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "Merge branch 'dev' into feature-doctor-period-2"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "同步患者状态切换逻辑； 完善医生个人信息返回功能； 同步sql中doctor表定义"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "更新医生坐诊状态转换逻辑"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "找回缺失文件"
+      },
+      {
+        "date": "2025-11-18",
+        "title": "加号审核结果-后端已确认； 未完成自动化生成订单流程"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "加号审核：适配数据库； 添加订单实体类"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "完成：加号后相关号源插入、订单插入"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "完善加号审批后号源逻辑"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "加号推送：实现向数据库插入加号后，实时推送相应医生前端"
+      }
+    ]
+  },
+  {
+    "name": "sisifuCha",
+    "commits": [
+      {
+        "date": "2025-10-23",
+        "title": "Merge pull request #1 from sisifuCha/dev"
+      },
+      {
+        "date": "2025-10-23",
+        "title": "创建dev分支 修改readme.md"
+      },
+      {
+        "date": "2025-10-23",
+        "title": "Create README.md 作简单项目说明和备注"
+      },
+      {
+        "date": "2025-10-23",
+        "title": "Initial commit"
+      },
+      {
+        "date": "2025-10-25",
+        "title": "Merge pull request #2"
+      },
+      {
+        "date": "2025-10-25",
+        "title": "DB初始化数据csv文件导入以及初始数据填充"
+      },
+      {
+        "date": "2025-10-26",
+        "title": "Merge remote-tracking branch 'origin/zhr' into dev"
+      },
+      {
+        "date": "2025-10-28",
+        "title": "Merge pull request #4 from sisifuCha/dev"
+      },
+      {
+        "date": "2025-10-28",
+        "title": "Merge pull request #3 from sisifuCha/zhr"
+      },
+      {
+        "date": "2025-10-29",
+        "title": "Merge pull request #5 from sisifuCha/zhr"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "Merge pull request #6 from sisifuCha/zhr"
+      },
+      {
+        "date": "2025-11-01",
+        "title": "Merge remote-tracking branch 'origin/zhr' into dev"
+      },
+      {
+        "date": "2025-11-03",
+        "title": "Merge remote-tracking branch 'origin/zhr' into dev"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "搭建了schedule框架 补上和feature/admin差的功能点-1（未完全补完）"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "Merge remote-tracking branch 'origin/feature/admin' into dev"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "Revert \"Merge remote-tracking branch 'origin/dev' into feature-doctorQuery\""
+      },
+      {
+        "date": "2025-11-06",
+        "title": "Merge remote-tracking branch 'origin/dev' into feature-doctorQuery"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "搭建了schedule框架 补上和feature/admin差的功能点 已对齐进度"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "Merge remote-tracking branch 'origin/dev' into dev"
+      }
+    ]
+  },
+  {
+    "name": "lzl933",
+    "commits": [
+      {
+        "date": "2025-11-20",
+        "title": "这是候补挂号的功能"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "Merge remote-tracking branch 'origin/feature/patient' into feature/patient"
+      },
+      {
+        "date": "2025-11-25",
+        "title": "加号的api文档"
+      },
+      {
+        "date": "2025-11-26",
+        "title": "加号的api文档"
+      }
+    ]
+  }
+]

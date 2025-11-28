@@ -1,0 +1,324 @@
+[
+  {
+    "name": "贾鹏",
+    "commits": [
+      {
+        "date": "2025-10-13",
+        "title": "完成用户注册界面"
+      },
+      {
+        "date": "2025-10-13",
+        "title": "完善应用简介界面"
+      },
+      {
+        "date": "2025-10-13",
+        "title": "初始化登录界面和简介界面"
+      },
+      {
+        "date": "2025-10-14",
+        "title": "患者端查看医生科室"
+      },
+      {
+        "date": "2025-10-16",
+        "title": "美化界面和挂号界面"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "完成挂号记录界面"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "添加小程序主页界面"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "增加主页界面按钮"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "添加新闻内容界面"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "添加新闻相关界面"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "Merge branch 'journal' into develop"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "更改"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "评价前端界面"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "部分配置的修改"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "部分配置修改更新"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "merged"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "1"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "Merge branch 'journal' into develop"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "配置的更改"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "就诊档案前端界面"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "部分更改"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "Merge branch 'journal' into develop"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "查看挂号和就诊档案"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "候补界面"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "修改就诊人信息界面"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "新增就诊人界面"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "就诊人管理界面"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "候补界面的更新"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "部分配置的修改"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "配置的修改"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "Merge branch 'treatPeople' into develop"
+      },
+      {
+        "date": "2025-11-15",
+        "title": "候补档案相关界面"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "部分配置的修改"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "部分配置的修改"
+      },
+      {
+        "date": "2025-11-22",
+        "title": "修改信息密码界面"
+      },
+      {
+        "date": "2025-11-22",
+        "title": "修改信息和档案"
+      },
+      {
+        "date": "2025-11-22",
+        "title": "部分界面的修改"
+      },
+      {
+        "date": "2025-11-22",
+        "title": "Merge branch 'develop'"
+      },
+      {
+        "date": "2025-11-22",
+        "title": "根据身份确定报销比例"
+      },
+      {
+        "date": "2025-11-22",
+        "title": "Merge remote-tracking branch 'origin/develop'"
+      }
+    ]
+  },
+  {
+    "name": "liruize830",
+    "commits": [
+      {
+        "date": "2025-10-22",
+        "title": "Update .gitignore"
+      },
+      {
+        "date": "2025-10-22",
+        "title": "Update .gitignore"
+      },
+      {
+        "date": "2025-10-24",
+        "title": "update"
+      },
+      {
+        "date": "2025-10-24",
+        "title": "Update .gitignore"
+      },
+      {
+        "date": "2025-11-04",
+        "title": "认证"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "认证"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "delete scss"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "changeOrder"
+      },
+      {
+        "date": "2025-11-11",
+        "title": "Merge branch 'master' of https://github.com/2307289009/hospital-phoneApp"
+      },
+      {
+        "date": "2025-11-11",
+        "title": "Update identity.vue"
+      },
+      {
+        "date": "2025-11-16",
+        "title": "fix bugs"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "AI助手前端"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "LLM"
+      },
+      {
+        "date": "2025-11-22",
+        "title": "恢复延时认证逻辑"
+      },
+      {
+        "date": "2025-11-22",
+        "title": "Update identity.vue"
+      }
+    ]
+  },
+  {
+    "name": "Yhr",
+    "commits": [
+      {
+        "date": "2025-10-28",
+        "title": "Stop tracking config"
+      },
+      {
+        "date": "2025-10-28",
+        "title": "Stop tracking unpackage directory (build output)"
+      },
+      {
+        "date": "2025-10-28",
+        "title": "update git"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "注册添加邮箱"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "bot验证"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "不同号别"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "unpackage/"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "Stop tracking unpackage folder"
+      }
+    ]
+  },
+  {
+    "name": "mark2330",
+    "commits": [
+      {
+        "date": "2025-10-24",
+        "title": "Merge branch 'master' of https://github.com/2307289009/hospital-phoneApp"
+      },
+      {
+        "date": "2025-10-24",
+        "title": "push"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "Merge branch 'master' of https://github.com/2307289009/hospital-phoneApp"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "push"
+      },
+      {
+        "date": "2025-11-01",
+        "title": "pr"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "Merge branch 'master' of https://github.com/2307289009/hospital-phoneApp"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "1"
+      }
+    ]
+  },
+  {
+    "name": "2307289009",
+    "commits": [
+      {
+        "date": "2025-11-21",
+        "title": "Delete unpackage/dist/dev/mp-weixin directory"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "Delete unpackage/dist/dev/mp-weixin directory"
+      }
+    ]
+  },
+  {
+    "name": "misaka",
+    "commits": [
+      {
+        "date": "2025-11-07",
+        "title": "merge"
+      }
+    ]
+  }
+]

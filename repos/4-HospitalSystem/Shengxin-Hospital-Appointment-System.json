@@ -1,0 +1,875 @@
+[
+  {
+    "name": "cat-cat-web",
+    "commits": [
+      {
+        "date": "2025-09-24",
+        "title": "前后端基础配置"
+      },
+      {
+        "date": "2025-09-26",
+        "title": "."
+      },
+      {
+        "date": "2025-09-27",
+        "title": "."
+      },
+      {
+        "date": "2025-09-27",
+        "title": "."
+      },
+      {
+        "date": "2025-09-28",
+        "title": "登录注册界面初步"
+      },
+      {
+        "date": "2025-09-30",
+        "title": "患者端个人中心初步"
+      },
+      {
+        "date": "2025-10-01",
+        "title": "科室具体信息预览界面初步"
+      },
+      {
+        "date": "2025-10-01",
+        "title": "科室预览界面初步"
+      },
+      {
+        "date": "2025-10-02",
+        "title": "修复一些小问题"
+      },
+      {
+        "date": "2025-10-02",
+        "title": "找回密码界面初步"
+      },
+      {
+        "date": "2025-10-03",
+        "title": "身份认证弹窗界面初步"
+      },
+      {
+        "date": "2025-10-04",
+        "title": "医生端管理查看预约列表界面初步"
+      },
+      {
+        "date": "2025-10-04",
+        "title": "."
+      },
+      {
+        "date": "2025-10-04",
+        "title": "导航栏增加状态控制；医生个人中心界面"
+      },
+      {
+        "date": "2025-10-05",
+        "title": "完善搜索逻辑"
+      },
+      {
+        "date": "2025-10-07",
+        "title": "管理端添加医生账号组件界面初步"
+      },
+      {
+        "date": "2025-10-10",
+        "title": "."
+      },
+      {
+        "date": "2025-10-17",
+        "title": "Merge branch 'main' of https://github.com/Asnowww/Shengxin-Hospital-Appointment-System"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "Merge branch 'main' of https://github.com/Asnowww/Shengxin-Hospital-Appointment-System"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "Merge branch 'main' of https://github.com/Asnowww/Shengxin-Hospital-Appointment-System"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "完善登录逻辑，后端加上角色校验；修正User类"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "修改数据库表:users表删除name字段，取消username非空约束；patients表新增patient_account字段，用于存储学号/教工号"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "患者端注册"
+      },
+      {
+        "date": "2025-10-18",
+        "title": "注册时增加姓名必填字段"
+      },
+      {
+        "date": "2025-10-18",
+        "title": "患者端个人中心查看及更新；注册账户默认状态inactive"
+      },
+      {
+        "date": "2025-10-18",
+        "title": "登录加上图形验证码"
+      },
+      {
+        "date": "2025-10-18",
+        "title": "Merge branch 'main' of https://github.com/Asnowww/Shengxin-Hospital-Appointment-System"
+      },
+      {
+        "date": "2025-10-18",
+        "title": "完善登录逻辑，后端加上角色校验；修正User类"
+      },
+      {
+        "date": "2025-10-20",
+        "title": "适配表字段更改"
+      },
+      {
+        "date": "2025-10-20",
+        "title": "Merge branch 'main' of https://github.com/Asnowww/Shengxin-Hospital-Appointment-System"
+      },
+      {
+        "date": "2025-10-20",
+        "title": "身份认证弹窗前端"
+      },
+      {
+        "date": "2025-10-21",
+        "title": "."
+      },
+      {
+        "date": "2025-10-22",
+        "title": "Merge branch 'main' of https://github.com/Asnowww/Shengxin-Hospital-Appointment-System"
+      },
+      {
+        "date": "2025-10-23",
+        "title": "一小部分预约QAQ"
+      },
+      {
+        "date": "2025-10-23",
+        "title": "Merge branch 'main' of https://github.com/Asnowww/Shengxin-Hospital-Appointment-System"
+      },
+      {
+        "date": "2025-10-23",
+        "title": "department相关？"
+      },
+      {
+        "date": "2025-10-24",
+        "title": "."
+      },
+      {
+        "date": "2025-10-24",
+        "title": "患者端查看与取消预约初步"
+      },
+      {
+        "date": "2025-10-24",
+        "title": "患者端在线预约与模糊搜索"
+      },
+      {
+        "date": "2025-10-25",
+        "title": "."
+      },
+      {
+        "date": "2025-10-25",
+        "title": "Merge branch 'main' of https://github.com/Asnowww/Shengxin-Hospital-Appointment-System"
+      },
+      {
+        "date": "2025-10-25",
+        "title": "."
+      },
+      {
+        "date": "2025-10-25",
+        "title": "身份认证弹窗仅支持现场拍照"
+      },
+      {
+        "date": "2025-10-25",
+        "title": "优化预约记录视觉效果"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "Merge branch 'main' of https://github.com/Asnowww/Shengxin-Hospital-Appointment-System"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "部分修正管理端界面"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "Merge branch 'main' of https://github.com/Asnowww/Shengxin-Hospital-Appointment-System"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "."
+      },
+      {
+        "date": "2025-10-30",
+        "title": "Merge branch 'main' of https://github.com/Asnowww/Shengxin-Hospital-Appointment-System"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "前端消息提醒（部分）"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "Merge branch 'main' of https://github.com/Asnowww/Shengxin-Hospital-Appointment-System"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "."
+      },
+      {
+        "date": "2025-10-31",
+        "title": "Merge branch 'main' of https://github.com/Asnowww/Shengxin-Hospital-Appointment-System"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "患者端候补界面"
+      },
+      {
+        "date": "2025-11-03",
+        "title": "Merge branch 'feature/user-verification-list' of https://github.com/Asnowww/Shengxin-Hospital-Appointment-System"
+      },
+      {
+        "date": "2025-11-03",
+        "title": "Merge branch 'feature/user-verification-pending' of https://github.com/Asnowww/Shengxin-Hospital-Appointment-System"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "style:统一后端request有/api"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "Merge branch 'main' of https://github.com/Asnowww/Shengxin-Hospital-Appointment-System"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "fix-前端显示问题"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "fix-预约挂号前端"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "fix-预约界面获取科室数据"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "feat-删除排班"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "fix-排班列表显示问题"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "fix-补充vite.config配置"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "Merge branch 'main' of https://github.com/Asnowww/Shengxin-Hospital-Appointment-System"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "feat-批量创建排班前端"
+      },
+      {
+        "date": "2025-11-08",
+        "title": "feat-挂号界面添加费用"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "feat-支付功能"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "Merge branch 'main' of https://github.com/Asnowww/Shengxin-Hospital-Appointment-System"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "feat-重构管理员查看排班界面"
+      },
+      {
+        "date": "2025-11-15",
+        "title": "feat-管理员端排班相关重构"
+      },
+      {
+        "date": "2025-11-15",
+        "title": "feat-管理员可交互式管理排班"
+      },
+      {
+        "date": "2025-11-15",
+        "title": "Merge branch 'main' of https://github.com/Asnowww/Shengxin-Hospital-Appointment-System"
+      },
+      {
+        "date": "2025-11-16",
+        "title": "feat-支付弹窗完善"
+      },
+      {
+        "date": "2025-11-17",
+        "title": "fix-患者端个人中心界面切换渲染问题修复"
+      },
+      {
+        "date": "2025-11-18",
+        "title": "Merge branch 'main' of https://github.com/Asnowww/Shengxin-Hospital-Appointment-System"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "fix-医生登录信息不一致问题"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "feat-医生端个人信息显示界面"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "Merge branch 'main' of https://github.com/Asnowww/Shengxin-Hospital-Appointment-System"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "feat-医生端请假界面初步"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "fix-多余路径（2）"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "fix-多余路径"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "Merge branch 'main' of https://github.com/Asnowww/Shengxin-Hospital-Appointment-System"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "fix-."
+      },
+      {
+        "date": "2025-11-21",
+        "title": "fix-小bug合集"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "fix-管理端医生管理科室筛选"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "feat-管理端审批请假初步"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "feat-医生列表分页前端"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "Merge branch 'main' of https://github.com/Asnowww/Shengxin-Hospital-Appointment-System"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "feat-可视化统计界面"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "fix-医生信息修改相关"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "fix-管理员端查看医生信息修改列表"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "fix-路由问题"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "feat-管理端可视化大屏初步"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "Merge branch 'main' of https://github.com/Asnowww/Shengxin-Hospital-Appointment-System"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "fix-补充echarts"
+      }
+    ]
+  },
+  {
+    "name": "SelinaWang-24998",
+    "commits": [
+      {
+        "date": "2025-10-17",
+        "title": "add-使用token验证来查询和更新患者"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "add-保存token到redis"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "add-patientService"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "add-患者端信息修改后端"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "一点细节，readme、路由、on delete cascade"
+      },
+      {
+        "date": "2025-10-20",
+        "title": "refactor(db)-建表顺序"
+      },
+      {
+        "date": "2025-10-20",
+        "title": "refactor(db)"
+      },
+      {
+        "date": "2025-10-20",
+        "title": "Merge remote-tracking branch 'origin/main'"
+      },
+      {
+        "date": "2025-10-20",
+        "title": "feat(db): 完善数据库"
+      },
+      {
+        "date": "2025-10-24",
+        "title": "chore(db)-添加预设token"
+      },
+      {
+        "date": "2025-10-24",
+        "title": "chore(db)-创建测试账户，插入排班信息，更新数据库设计markdown文档"
+      },
+      {
+        "date": "2025-10-24",
+        "title": "refactor-预约记录返回列表新加入建筑物字段"
+      },
+      {
+        "date": "2025-10-24",
+        "title": "refactor-细化预约记录返回，使用DTO"
+      },
+      {
+        "date": "2025-10-24",
+        "title": "refactor-细化预约记录返回，使用DTO"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "feat(userVerification)-管理员查看所有待审核信息接口"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "refactor-身份认证后修改对应user表的status"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "docs(README)-规范配置文件（必看，重要）"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "chore(properties)-上传图片相关配置。"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "chore(properties)-上传图片相关配置。"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "chore(properties)-上传图片相关配置。"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "chore(db)-身份认证表加审核不通过原因字段"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "Merge remote-tracking branch 'origin/main'"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "feat-身份认证患者端"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "Merge remote-tracking branch 'origin/main'"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "feat(doctor)-新增、修改、删除医生"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "Merge remote-tracking branch 'origin/main'"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "feat(department)-新增、修改、删除科室"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "Merge remote-tracking branch 'origin/main'"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "Merge branch 'feature/user-verification-list'"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "fix(verification)-审核verificationId传"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "Merge remote-tracking branch 'origin/main'"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "Merge remote-tracking branch 'origin/main'"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "Merge remote-tracking branch 'origin/main'"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "fix(createDoctor)-下拉显示科室"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "feat(creatSchedule)-创建单条排班前后端"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "feat(room)-排班页面传诊室列表（加根据科室筛选的接口）"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "feat(AppointmentType)-加号源管理-maxSlots"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "chore(AppointmentType)-号别管理接口文档"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "Merge remote-tracking branch 'origin/main'"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "feat(AppointmentType)-号别管理"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "fix(appointmentType)-改映射"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "Merge remote-tracking branch 'origin/main'"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "feat(fee)-传回报销后的费用"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "fix(AppointmentType)-去分页"
+      },
+      {
+        "date": "2025-11-17",
+        "title": "perf(createAppointment)-创建appointment之后异步发送邮件，接口立即响应，不等待邮件发完。"
+      },
+      {
+        "date": "2025-11-17",
+        "title": "fix(finalFee)-创建appointment时就计算finalFee"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "feat(doctorLeaveService)-添加医生变更排班后通知患者的逻辑"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "Merge remote-tracking branch 'origin/main'"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "doc(医生端排班)-API文档"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "feat(reviewBio)-加管理端查看待审批列表接口"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "fix(reviewLeave)-改approve,加mapper的select"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "fix(updateBio)-改成传userId"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "Merge remote-tracking branch 'origin/main'"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "feat(updateBio)-添加医生修改bio的审核接口（医生&管理）"
+      },
+      {
+        "date": "2025-11-26",
+        "title": "Merge remote-tracking branch 'origin/main'"
+      },
+      {
+        "date": "2025-11-26",
+        "title": "chore(db)-更新诊室数据"
+      },
+      {
+        "date": "2025-11-26",
+        "title": "Merge remote-tracking branch 'origin/main'"
+      },
+      {
+        "date": "2025-11-26",
+        "title": "feat(doctorList)-加分页"
+      }
+    ]
+  },
+  {
+    "name": "ains111111ey",
+    "commits": [
+      {
+        "date": "2025-10-15",
+        "title": "修正"
+      },
+      {
+        "date": "2025-10-15",
+        "title": "登录注册接口"
+      },
+      {
+        "date": "2025-10-16",
+        "title": "sql语句"
+      },
+      {
+        "date": "2025-10-16",
+        "title": "增加身份证字段"
+      },
+      {
+        "date": "2025-10-16",
+        "title": "增加身份证字段"
+      },
+      {
+        "date": "2025-10-16",
+        "title": "修正"
+      },
+      {
+        "date": "2025-10-16",
+        "title": "修正"
+      },
+      {
+        "date": "2025-10-21",
+        "title": "再次修改"
+      },
+      {
+        "date": "2025-10-21",
+        "title": "数据导入修正"
+      },
+      {
+        "date": "2025-10-21",
+        "title": "数据导入（医生表、用户表、诊室科室表），注意阅读后端README"
+      },
+      {
+        "date": "2025-10-23",
+        "title": "挂号预约、预约管理接口，同时修改了数据，注意重新导入数据库"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "返回候补详细信息"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "候补队列人数限制"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "可候补排班查看"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "候补成功、候补转正通知"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "候补功能，提醒邮件方法（未全部应用）"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "Merge remote-tracking branch 'origin/main'"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "返回可候补排班"
+      },
+      {
+        "date": "2025-11-04",
+        "title": "定时任务，预约订单支付和退款接口"
+      },
+      {
+        "date": "2025-11-05",
+        "title": "添加医生账号、医生信息修改、状态更改、医生账号密码重置、用户修改密码接口"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "Merge branch 'main' of https://github.com/Asnowww/Shengxin-Hospital-Appointment-System"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "医生账号管理bug修复"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "Merge remote-tracking branch 'origin/main'"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "fix-医生禁用bug"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "fix-批量创建排班，排班列表显示问题"
+      },
+      {
+        "date": "2025-11-12",
+        "title": "feat-数据返回"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "Merge remote-tracking branch 'origin/main'"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "fix-取消订单bug"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "fix-取消退款bug修复"
+      },
+      {
+        "date": "2025-11-18",
+        "title": "Merge remote-tracking branch 'origin/main'"
+      },
+      {
+        "date": "2025-11-18",
+        "title": "feat-自动创建排班"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "fix-验证码发送"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "Merge remote-tracking branch 'origin/main'"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "feat-医生端患者管理"
+      },
+      {
+        "date": "2025-11-26",
+        "title": "Merge branch 'main' of https://github.com/Asnowww/Shengxin-Hospital-Appointment-System"
+      },
+      {
+        "date": "2025-11-26",
+        "title": "fix-手动叫号、自动过号"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "fix-病患管理界面优化"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "fix-病患管理界面优化"
+      }
+    ]
+  },
+  {
+    "name": "Asnowww",
+    "commits": [
+      {
+        "date": "2025-10-20",
+        "title": "fix(frontend): 修复依赖问题和路由配置"
+      },
+      {
+        "date": "2025-10-20",
+        "title": "fix(backend): 添加 easy-captcha 依赖修复编译错误"
+      },
+      {
+        "date": "2025-10-22",
+        "title": "feat:增加排班管理前端"
+      },
+      {
+        "date": "2025-10-22",
+        "title": "Feat:添加后端排班管理"
+      },
+      {
+        "date": "2025-10-24",
+        "title": "fix:优化邮箱验证码发送速度并添加60s冷却时间"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "feat: 实现候补功能前端界面"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "feat：add user verification list"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "Merge branch 'main' into feature/user-verification-list"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "Merge branch 'main' of https://github.com/Asnowww/Shengxin-Hospital-Appointment-System"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "feat: add doctor patient management ui and status filter"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "Merge branch 'main' of https://github.com/Asnowww/Shengxin-Hospital-Appointment-System"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "feat:医生端排班优化UI并接入真实数据"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "feat:管理员端数据统计与分析UI"
+      },
+      {
+        "date": "2025-11-26",
+        "title": "fix:修复患者端地点名称显示不全"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "feat:加入3D导航"
+      }
+    ]
+  },
+  {
+    "name": "Wangzihan0506",
+    "commits": [
+      {
+        "date": "2025-11-06",
+        "title": "Merge branch 'main' of https://github.com/Asnowww/Shengxin-Hospital-Appointment-System"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "feat-医生端 请假申请/个人信息变更申请"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "feat-管理端新增审核中心 1.审批医生个人主页更改 2.请假审批 3.审核学生/教职工身份"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "feat-新建医生账号"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "feat-管理端新增医生账号管理"
+      }
+    ]
+  }
+]

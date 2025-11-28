@@ -1,0 +1,206 @@
+[
+  {
+    "name": "wyq",
+    "commits": [
+      {
+        "date": "2025-11-19",
+        "title": "接诊页面基本布局"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "1.新增了uView的组件库 2.新增了toast函数和组件,在utils下."
+      },
+      {
+        "date": "2025-11-19",
+        "title": "修复原来的使用views的错误路径"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "1.修改页面文件名称 2.删除无用的index/index.vue"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "1.删除冗余目录. 2.修改接口注释格式"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "1.大规模的调整项目的框架 2.新增了requests.js文件, 之后的请求都通这个"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "1.修复workbench页面 2.添加了pinia库"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "1.添加了store/auth.js可以存储认证信息. 2.修复了接口及其参数"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "更新了uni-request的库"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "Merge branch 'main' of https://github.com/bjtu-hospital/doctor-fronted"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "修改了request请求的路径"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "Merge branch 'main' into page/consultation"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "更新api文档"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "去除有关uView的相关依赖"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "接诊页面完成"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "修复workbench无法定位的问题"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "合并冲突"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "consulation现在用假数据"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "合并冲突"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "修复接诊界面异常"
+      }
+    ]
+  },
+  {
+    "name": "fengyi",
+    "commits": [
+      {
+        "date": "2025-11-18",
+        "title": "Initial commit"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "fix: resolve merge conflicts(main->feature/addpages)"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "调整签到签退"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "完成登录界面、初版工作台界面，包括签到签退界面。"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "Merge branch 'main' into dev/linkworkbench"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "workbench界面api接口连接"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "Merge branch 'main' into tmp/merge"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "修改api文档。"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "修改workbench/workbench.vue命名。"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "美化四种签到卡片，添加定位获得经纬度。"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "修改签到签退逻辑，增加模拟时间，增加dayjs依赖包"
+      }
+    ]
+  },
+  {
+    "name": "Wang Yiqun",
+    "commits": [
+      {
+        "date": "2025-11-19",
+        "title": "Merge pull request #3 from bjtu-hospital/experiment/ui"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "Merge pull request #2 from bjtu-hospital/refactor"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "Merge pull request #1 from bjtu-hospital/feature/addpages"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "Merge pull request #6 from bjtu-hospital/tmp/merge"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "Merge pull request #5 from bjtu-hospital/page/consultation"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "Merge pull request #4 from bjtu-hospital/page/consultation"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "Merge pull request #8 from bjtu-hospital/dev/schedule"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "Merge pull request #7 from bjtu-hospital/dev/linkworkbench"
+      }
+    ]
+  },
+  {
+    "name": "Arigato666",
+    "commits": [
+      {
+        "date": "2025-11-20",
+        "title": "Merge branch 'main' of https://github.com/bjtu-hospital/doctor-fronted"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "Merge branch 'main' of https://github.com/bjtu-hospital/doctor-fronted"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "合并冲突"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "更新schedule接口"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "完善排班模块UI和详情弹窗显示"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "完善排班表在请求数据时的延迟和缓存问题"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "排班表数据接收完善"
+      }
+    ]
+  }
+]

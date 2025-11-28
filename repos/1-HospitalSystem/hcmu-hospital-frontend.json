@@ -1,0 +1,317 @@
+[
+  {
+    "name": "HFDLYS",
+    "commits": [
+      {
+        "date": "2025-10-20",
+        "title": "init: 初始化项目"
+      },
+      {
+        "date": "2025-10-26",
+        "title": "docs: 为什么要把这个放进来？"
+      },
+      {
+        "date": "2025-10-26",
+        "title": "fix: 修复build的语法错误"
+      },
+      {
+        "date": "2025-10-26",
+        "title": "feat: 修复前端姓名显示的问题"
+      },
+      {
+        "date": "2025-10-26",
+        "title": "fix: 修复一个语法错误"
+      },
+      {
+        "date": "2025-10-26",
+        "title": "build: 暴力重构"
+      },
+      {
+        "date": "2025-10-26",
+        "title": "fix: 更新一下api"
+      },
+      {
+        "date": "2025-10-27",
+        "title": "fix: 修正用户注册的姓名字段"
+      },
+      {
+        "date": "2025-10-27",
+        "title": "fix: 修正图片的信息"
+      },
+      {
+        "date": "2025-10-27",
+        "title": "fix: 修正网页logo和标题"
+      },
+      {
+        "date": "2025-10-27",
+        "title": "fix: 修正build后头像不显示"
+      },
+      {
+        "date": "2025-10-27",
+        "title": "feat: 更新端口号"
+      },
+      {
+        "date": "2025-10-27",
+        "title": "ci: 更新cicd的端口号"
+      },
+      {
+        "date": "2025-10-27",
+        "title": "ci: 前端的cicd尝试"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "fix: 修正重复的locale定义"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "feat: 更细致的权限管理"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "Merge pull request #4 from HachimiResort/wyc"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "Merge pull request #7 from HachimiResort/dev"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "fix: 处理了医生档案管理按钮的高亮显示问题"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "fix: 显示错误信息一下"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "fix: 修复科室多选框无法使用的问题"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "Merge remote-tracking branch 'orgin/wyc' into dev"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "fix: 修复各类小问题"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "feat: 初步完成用户导入界面"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "feat: 新增待处理用户的api接口"
+      },
+      {
+        "date": "2025-11-05",
+        "title": "Merge pull request #9 from HachimiResort/dev"
+      },
+      {
+        "date": "2025-11-05",
+        "title": "Merge pull request #10 from HachimiResort/copilot/sub-pr-9"
+      },
+      {
+        "date": "2025-11-05",
+        "title": "Merge branch 'wyc' into dev"
+      },
+      {
+        "date": "2025-11-05",
+        "title": "fix: 修复获取所有huanzhe时的问题"
+      },
+      {
+        "date": "2025-11-05",
+        "title": "feat: 现在可以展示学生还是教职工了"
+      },
+      {
+        "date": "2025-11-05",
+        "title": "feat: 1小时22分速通患者档案管理"
+      },
+      {
+        "date": "2025-11-05",
+        "title": "feat: 更新用户的批量删除"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "docs: 更新lock文件"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "Merge pull request #11 from HachimiResort/dev"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "feat: 更新运营规则管理页面"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "fix: 修复核心权限问题"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "Merge pull request #13 from HachimiResort/dev"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "Merge pull request #12 from HachimiResort/wyc"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "Merge pull request #16 from HachimiResort/dev"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "Merge pull request #15 from HachimiResort/wyc"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "Merge remote-tracking branch 'orgin/wyc' into wyc"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "fix: 修复pnpm build"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "feat: 增加排班模板页面"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "Merge branch 'dev' into wyc"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "Merge pull request #14 from HachimiResort/dev"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "fix: 修正单元格css"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "perf: 代码规范性问题"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "feat: 优化2"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "feat: 优化医生工作台页面"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "perf: 修正代码规范问题"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "Merge remote-tracking branch 'orgin/wyc' into dev"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "fix: 修正医疗相关页面的权限"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "Merge branch 'wyc' into dev"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "feat: 社会主义改造中"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "feat: 增加审批排班的页面"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "feat: 增加医生申请的页面"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "feat: 增加提出申请的api"
+      }
+    ]
+  },
+  {
+    "name": "WYC",
+    "commits": [
+      {
+        "date": "2025-10-24",
+        "title": "feat: 前端初始搭建，角色管理中心和人事管理中心开发"
+      },
+      {
+        "date": "2025-10-29",
+        "title": "feat: 科室管理页面开发"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "fix: 修复了科室管理中编辑的一点小问题"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "fix: 小修改"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "fix: pnpm项目构建"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "feat: 医生档案管理界面开发"
+      },
+      {
+        "date": "2025-11-05",
+        "title": "feat: 自动配置医生头像"
+      },
+      {
+        "date": "2025-11-05",
+        "title": "feat: 医生排班管理页面开发"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "fix: 修改一下目录排版和名称"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "Merge remote-tracking branch 'origin/dev' into wyc"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "docs: 更新API文档"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "feat: 医生工作台主页构建"
+      },
+      {
+        "date": "2025-11-17",
+        "title": "feat: 医生工作台主页排班日历和医生个人档案设计，以及排班状态修改"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "feat: 修改了状态文字不显示的问题"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "feat: 医生端工作台主页开发和医生端排班与患者列表页面开发"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "fix: 修复了编辑排版时的一些问题"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "feat: 一键导入排班模版"
+      }
+    ]
+  },
+  {
+    "name": "copilot-swe-agent[bot]",
+    "commits": [
+      {
+        "date": "2025-11-05",
+        "title": "Initial plan"
+      }
+    ]
+  }
+]

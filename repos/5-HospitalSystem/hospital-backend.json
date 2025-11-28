@@ -1,0 +1,298 @@
+[
+  {
+    "name": "ShenHua",
+    "commits": [
+      {
+        "date": "2025-10-23",
+        "title": "init: 后端初始版本"
+      },
+      {
+        "date": "2025-10-29",
+        "title": "update :修改更新ReadMe文档结构"
+      },
+      {
+        "date": "2025-10-29",
+        "title": "feat :新增医生管理功能"
+      },
+      {
+        "date": "2025-10-29",
+        "title": "update :调整API结构, 新增管理员路由 /admin"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "fix :修正ReadMe格式问题"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "update :修正一些细节错误, 新增医生照片CRUD"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "t:wq"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "feat :新增医生照片获取接口"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "feat :新增系统配置表用于通用数据配置设置"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "fix: 修复无法获取信息bug"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "feat :新增排班相关管理API"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "fix :修改相关文件"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "update :更新.sql数据库脚本"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "update :修改挂号价格配置逻辑"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "feat :新增管理员修改相关配置接口"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "feat :新增管理员审核相关接口"
+      },
+      {
+        "date": "2025-11-08",
+        "title": "update :修改请假审核通过后的逻辑"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "update :更新相关Get请求增加模糊查询"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "update ：更新SQL数据库文件"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "feat :新增统计分析相关接口"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "update :新增一些测试数据插入脚本"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "update :更新SQL脚本文件"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "feat :新增加号相关API"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "feat :新增加号申请表"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "update :补充园区Get接口"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "fix :修复统计数据逻辑问题"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "update :完善风险管理相关API"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "feat :新增初步的风险分数计算逻辑"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "update :更新相关风险测试模拟数据"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "update :修改风险表相关结构"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "feat :实现用户风险/封禁相关API"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "update :更新相关测试数据"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "feat: 新增用户风险/封禁相关表"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "update :更新一系列医生数据, 以及相关接口"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "feat :新增医生相关基础工作台API"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "update :更新相关逻辑, 配置云数据库"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "feat :新增自动化爬取排班表API"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "update :修改医生接诊相关逻辑"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "update :更新ReadMe"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "feat :新增医生就诊流程相关API"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "update : 修改患者挂号订单表"
+      },
+      {
+        "date": "2025-11-22",
+        "title": "update :修改Get查询相关逻辑, 解决性能问题"
+      },
+      {
+        "date": "2025-11-24",
+        "title": "feat :新增患者相关医院信息获取API"
+      },
+      {
+        "date": "2025-11-26",
+        "title": "feat :新增医生请假相关API接口"
+      },
+      {
+        "date": "2025-11-26",
+        "title": "feat :新增患者预约挂号相关API"
+      },
+      {
+        "date": "2025-11-26",
+        "title": "update :统一config使用逻辑"
+      },
+      {
+        "date": "2025-11-26",
+        "title": "update :补充相关院区图像数据"
+      },
+      {
+        "date": "2025-11-26",
+        "title": "update :修改患者挂号表"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "update :修改科室长请假审核相关接口"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "feat :实现患者就诊历史查看相关API"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "feat :实现科室长排班申请相关API"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "feat :完成科室长请假审核相关模块API"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "update :修改所有审核表的一些逻辑"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "update :新增医生获取自己患者信息接口"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "update :更新病历单以及PDF权限逻辑"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "update :修改查看患者详细逻辑"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "fix :修改历史就诊表逻辑"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "fix :修复一些逻辑上的错误"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "update :更新医生加号申请API相关逻辑"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "fix :修复医生就诊流程相关API的细节错误"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "update :更新医生就诊相关辅助API逻辑"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "fix :修复医生端相关API错误"
+      }
+    ]
+  },
+  {
+    "name": "XXXXXTTTTT",
+    "commits": [
+      {
+        "date": "2025-10-29",
+        "title": "Merge pull request #2 from bjtu-hospital/dev"
+      },
+      {
+        "date": "2025-10-29",
+        "title": "Merge pull request #1 from bjtu-hospital/dev"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "Merge pull request #4 from bjtu-hospital/dev"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "Merge pull request #3 from bjtu-hospital/dev"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "Merge pull request #5 from bjtu-hospital/dev"
+      }
+    ]
+  },
+  {
+    "name": "Tao Xiong",
+    "commits": [
+      {
+        "date": "2025-11-08",
+        "title": "Merge pull request #6 from bjtu-hospital/dev"
+      }
+    ]
+  },
+  {
+    "name": "Wang Yiqun",
+    "commits": [
+      {
+        "date": "2025-10-31",
+        "title": "更新hospital.sql"
+      }
+    ]
+  }
+]

@@ -1,0 +1,266 @@
+[
+  {
+    "name": "Caterpillar1111",
+    "commits": [
+      {
+        "date": "2025-10-14",
+        "title": "Merge branch 'develop' of gitee.com:mingyue551/first-care"
+      },
+      {
+        "date": "2025-10-14",
+        "title": "完成登录功能的前端开发"
+      },
+      {
+        "date": "2025-10-21",
+        "title": "Merge branch 'develop' of gitee.com:mingyue551/first-care into develop"
+      },
+      {
+        "date": "2025-10-21",
+        "title": "feat: 完成管理端登录、仪表盘、医生管理页面"
+      },
+      {
+        "date": "2025-10-24",
+        "title": "完善跳转，医生页面"
+      },
+      {
+        "date": "2025-10-24",
+        "title": "解决Git合并冲突并完善跳转逻辑"
+      },
+      {
+        "date": "2025-10-24",
+        "title": "feat: 娣诲姞灏忕▼搴忛」鐩枃浠? - 鏂板鍖荤敓绔皬绋嬪簭 (doctor-miniprogram) - 鏂板鎮ｈ€呯灏忕▼搴?(patient-miniprogram) - 娣诲姞VSCode閰嶇疆鏂囦欢"
+      },
+      {
+        "date": "2025-10-24",
+        "title": "feat: 瀹屾垚鍖荤敓绔痺eb椤甸潰寮€鍙? - 鏂板鍖荤敓绔畬鏁村姛鑳芥ā鍧楋細   * 鍖荤敓鐧诲綍椤甸潰 (DoctorLogin.vue)   * 鍖荤敓涓汉涓婚〉 (DoctorProfile.vue)   * 鎺掔彮绠＄悊椤甸潰 (DoctorSchedule.vue)   * 鎮ｈ€呴绾︾鐞嗛〉闈?(DoctorAppointments.vue)   * 鍑鸿瘖鏃堕棿璋冩暣椤甸潰 (DoctorScheduleAdjust.vue)   * 鍖荤敓绔竷灞€缁勪欢 (DoctorLayout.vue)"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "新增患者端小程序大概"
+      },
+      {
+        "date": "2025-11-02",
+        "title": "新增小程序的医生列表和我的预约页面，优化前端路由"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "Merge branch 'develop' of gitee.com:mingyue551/first-care into develop"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "登录跳转逻辑修改2.0"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "登录跳转逻辑修改2.0"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "登录跳转修复2.0+一点患者小程序页面新增"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "其实什么都没加"
+      },
+      {
+        "date": "2025-11-10",
+        "title": "连接前后端，新增了一堆文件但是大概还没彻底成功率"
+      },
+      {
+        "date": "2025-11-10",
+        "title": "Merge branch 'develop' into Patient"
+      },
+      {
+        "date": "2025-11-10",
+        "title": "我要连后端啦！"
+      },
+      {
+        "date": "2025-11-10",
+        "title": "莫名其妙"
+      },
+      {
+        "date": "2025-11-10",
+        "title": "？前端"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "提交本地一下"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "前端~~~"
+      }
+    ]
+  },
+  {
+    "name": "ming-yue551",
+    "commits": [
+      {
+        "date": "2025-10-10",
+        "title": "Initial commit"
+      },
+      {
+        "date": "2025-10-11",
+        "title": "文件基础框架"
+      },
+      {
+        "date": "2025-10-13",
+        "title": "!2 注册功能的后端实现 Merge pull request !2 from EXPECT/develop"
+      },
+      {
+        "date": "2025-10-22",
+        "title": "账号信息修改"
+      },
+      {
+        "date": "2025-10-22",
+        "title": "登录注册可运行"
+      },
+      {
+        "date": "2025-10-22",
+        "title": "注册界面搭建"
+      },
+      {
+        "date": "2025-10-22",
+        "title": "test"
+      },
+      {
+        "date": "2025-10-22",
+        "title": "test"
+      },
+      {
+        "date": "2025-10-24",
+        "title": "患者端修改"
+      },
+      {
+        "date": "2025-10-24",
+        "title": "患者端集成"
+      },
+      {
+        "date": "2025-11-04",
+        "title": "管理员端：排班管理"
+      },
+      {
+        "date": "2025-11-04",
+        "title": "管理员端：医生信息管理"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "管理员端：医生信息添加逻辑修改"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "Merge branch 'develop' of https://gitee.com/mingyue551/first-care into develop"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "排班日历实现"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "管理员：科室管理实现"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "管理员：科室管理实现"
+      }
+    ]
+  },
+  {
+    "name": "qia-n1",
+    "commits": [
+      {
+        "date": "2025-10-12",
+        "title": "一些配置 现在可以启动application了"
+      },
+      {
+        "date": "2025-10-13",
+        "title": "注册功能的后端实现"
+      },
+      {
+        "date": "2025-10-14",
+        "title": "科室信息管理功能后端实现"
+      },
+      {
+        "date": "2025-10-14",
+        "title": "Merge remote-tracking branch 'origin/master' into develop"
+      },
+      {
+        "date": "2025-10-14",
+        "title": "登录功能后端实现"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "医生端个人信息维护后端（查看和更新）实现"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "在根目录加了一个ignore 以后pull就没垃圾文件了应该"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "医生端排班实现"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "医生端个人简介优化"
+      },
+      {
+        "date": "2025-11-16",
+        "title": "优化.gitignore"
+      },
+      {
+        "date": "2025-11-16",
+        "title": "完成develop分支合并，解决冲突"
+      },
+      {
+        "date": "2025-11-16",
+        "title": "医生端个人简介优化（接口修改）能成功运行"
+      },
+      {
+        "date": "2025-11-16",
+        "title": "医生端个人界面上传头像功能"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "医生端排班管理 已连接前后端 正在改审批版的显示"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "医生端排班管理 前后端还没连上版"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "Merge branch 'develop' of gitee.com:mingyue551/first-care into develop"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "医生端排班管理初步实现"
+      }
+    ]
+  },
+  {
+    "name": "高林冉",
+    "commits": [
+      {
+        "date": "2025-11-10",
+        "title": "我要连前端啦！"
+      },
+      {
+        "date": "2025-11-12",
+        "title": "目前没有报错了"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "更新gitignore忽略Maven构建文件"
+      },
+      {
+        "date": "2025-11-17",
+        "title": "候补挂号功能"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "”新增报到二维码“"
+      }
+    ]
+  }
+]

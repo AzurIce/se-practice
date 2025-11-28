@@ -1,6 +1,6 @@
-<svg height="1680" viewBox="0 0 105 1680" width="105" xmlns="http://www.w3.org/2000/svg">
-<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="15" y2="30"/>
-<circle cx="45" cy="15" fill="orange" r="4" stroke="orange" stroke-width="1"/>
+<svg height="1695" viewBox="0 0 105 1695" width="105" xmlns="http://www.w3.org/2000/svg">
+<path d="M30,15 L30,15 Q30,22.5,37.5,22.5 Q45,22.5,45,30 L45,30" fill="none" stroke="orange" stroke-width="1"/>
+<circle cx="30" cy="15" fill="orange" r="4" stroke="orange" stroke-width="1"/>
 <line stroke="orange" stroke-width="1" x1="45" x2="45" y1="30" y2="45"/>
 <circle cx="45" cy="30" fill="orange" r="4" stroke="orange" stroke-width="1"/>
 <line stroke="orange" stroke-width="1" x1="45" x2="45" y1="45" y2="60"/>
@@ -25,123 +25,123 @@
 <circle cx="45" cy="180" fill="orange" r="4" stroke="orange" stroke-width="1"/>
 <line stroke="orange" stroke-width="1" x1="45" x2="45" y1="195" y2="210"/>
 <circle cx="45" cy="195" fill="orange" r="4" stroke="orange" stroke-width="1"/>
-<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="210" y2="240"/>
+<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="210" y2="225"/>
 <circle cx="45" cy="210" fill="orange" r="4" stroke="orange" stroke-width="1"/>
-<line stroke="gray" stroke-width="1" x1="60" x2="60" y1="225" y2="255"/>
-<circle cx="60" cy="225" fill="gray" r="4" stroke="gray" stroke-width="1"/>
-<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="240" y2="270"/>
-<circle cx="45" cy="240" fill="orange" r="4" stroke="orange" stroke-width="1"/>
-<line stroke="gray" stroke-width="1" x1="60" x2="60" y1="255" y2="315"/>
-<circle cx="60" cy="255" fill="gray" r="4" stroke="gray" stroke-width="1"/>
-<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="270" y2="285"/>
-<circle cx="45" cy="270" fill="orange" r="4" stroke="orange" stroke-width="1"/>
+<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="225" y2="255"/>
+<circle cx="45" cy="225" fill="orange" r="4" stroke="orange" stroke-width="1"/>
+<line stroke="gray" stroke-width="1" x1="60" x2="60" y1="240" y2="270"/>
+<circle cx="60" cy="240" fill="gray" r="4" stroke="gray" stroke-width="1"/>
+<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="255" y2="285"/>
+<circle cx="45" cy="255" fill="orange" r="4" stroke="orange" stroke-width="1"/>
+<line stroke="gray" stroke-width="1" x1="60" x2="60" y1="270" y2="330"/>
+<circle cx="60" cy="270" fill="gray" r="4" stroke="gray" stroke-width="1"/>
 <line stroke="orange" stroke-width="1" x1="45" x2="45" y1="285" y2="300"/>
 <circle cx="45" cy="285" fill="orange" r="4" stroke="orange" stroke-width="1"/>
-<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="300" y2="345"/>
+<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="300" y2="315"/>
 <circle cx="45" cy="300" fill="orange" r="4" stroke="orange" stroke-width="1"/>
-<line stroke="gray" stroke-width="1" x1="60" x2="60" y1="315" y2="330"/>
-<circle cx="60" cy="315" fill="gray" r="4" stroke="gray" stroke-width="1"/>
-<path d="M60,330 L60,405 Q60,412.5,52.5,412.5 Q45,412.5,45,420 L45,420" fill="none" stroke="gray" stroke-width="1"/>
+<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="315" y2="360"/>
+<circle cx="45" cy="315" fill="orange" r="4" stroke="orange" stroke-width="1"/>
+<line stroke="gray" stroke-width="1" x1="60" x2="60" y1="330" y2="345"/>
 <circle cx="60" cy="330" fill="gray" r="4" stroke="gray" stroke-width="1"/>
-<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="345" y2="360"/>
-<path d="M45,345 L45,345 Q45,352.5,52.5,352.5 Q60,352.5,60,360 L60,390" fill="none" stroke="purple" stroke-width="1"/>
-<circle cx="45" cy="345" fill="white" r="4" stroke="orange" stroke-width="1"/>
+<path d="M60,345 L60,420 Q60,427.5,52.5,427.5 Q45,427.5,45,435 L45,435" fill="none" stroke="gray" stroke-width="1"/>
+<circle cx="60" cy="345" fill="gray" r="4" stroke="gray" stroke-width="1"/>
 <line stroke="orange" stroke-width="1" x1="45" x2="45" y1="360" y2="375"/>
-<circle cx="45" cy="360" fill="orange" r="4" stroke="orange" stroke-width="1"/>
-<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="375" y2="405"/>
+<path d="M45,360 L45,360 Q45,367.5,52.5,367.5 Q60,367.5,60,375 L60,405" fill="none" stroke="purple" stroke-width="1"/>
+<circle cx="45" cy="360" fill="white" r="4" stroke="orange" stroke-width="1"/>
+<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="375" y2="390"/>
 <circle cx="45" cy="375" fill="orange" r="4" stroke="orange" stroke-width="1"/>
-<path d="M60,390 L60,390 Q60,397.5,52.5,397.5 Q45,397.5,45,405 L45,405" fill="none" stroke="purple" stroke-width="1"/>
-<circle cx="60" cy="390" fill="purple" r="4" stroke="purple" stroke-width="1"/>
-<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="405" y2="420"/>
-<circle cx="45" cy="405" fill="orange" r="4" stroke="orange" stroke-width="1"/>
+<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="390" y2="420"/>
+<circle cx="45" cy="390" fill="orange" r="4" stroke="orange" stroke-width="1"/>
+<path d="M60,405 L60,405 Q60,412.5,52.5,412.5 Q45,412.5,45,420 L45,420" fill="none" stroke="purple" stroke-width="1"/>
+<circle cx="60" cy="405" fill="purple" r="4" stroke="purple" stroke-width="1"/>
 <line stroke="orange" stroke-width="1" x1="45" x2="45" y1="420" y2="435"/>
 <circle cx="45" cy="420" fill="orange" r="4" stroke="orange" stroke-width="1"/>
-<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="435" y2="465"/>
-<path d="M45,435 L45,435 Q45,442.5,52.5,442.5 Q60,442.5,60,450 L60,450" fill="none" stroke="turquoise" stroke-width="1"/>
-<circle cx="45" cy="435" fill="white" r="4" stroke="orange" stroke-width="1"/>
-<line stroke="turquoise" stroke-width="1" x1="60" x2="60" y1="450" y2="480"/>
-<circle cx="60" cy="450" fill="turquoise" r="4" stroke="turquoise" stroke-width="1"/>
-<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="465" y2="525"/>
-<circle cx="45" cy="465" fill="orange" r="4" stroke="orange" stroke-width="1"/>
-<line stroke="turquoise" stroke-width="1" x1="60" x2="60" y1="480" y2="495"/>
-<circle cx="60" cy="480" fill="turquoise" r="4" stroke="turquoise" stroke-width="1"/>
+<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="435" y2="450"/>
+<circle cx="45" cy="435" fill="orange" r="4" stroke="orange" stroke-width="1"/>
+<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="450" y2="480"/>
+<path d="M45,450 L45,450 Q45,457.5,52.5,457.5 Q60,457.5,60,465 L60,465" fill="none" stroke="turquoise" stroke-width="1"/>
+<circle cx="45" cy="450" fill="white" r="4" stroke="orange" stroke-width="1"/>
+<line stroke="turquoise" stroke-width="1" x1="60" x2="60" y1="465" y2="495"/>
+<circle cx="60" cy="465" fill="turquoise" r="4" stroke="turquoise" stroke-width="1"/>
+<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="480" y2="540"/>
+<circle cx="45" cy="480" fill="orange" r="4" stroke="orange" stroke-width="1"/>
 <line stroke="turquoise" stroke-width="1" x1="60" x2="60" y1="495" y2="510"/>
-<path d="M60,495 L60,495 Q60,502.5,52.5,502.5 Q45,502.5,45,510 L45,525" fill="none" stroke="orange" stroke-width="1"/>
-<circle cx="60" cy="495" fill="white" r="4" stroke="turquoise" stroke-width="1"/>
-<line stroke="turquoise" stroke-width="1" x1="60" x2="60" y1="510" y2="570"/>
-<circle cx="60" cy="510" fill="turquoise" r="4" stroke="turquoise" stroke-width="1"/>
-<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="525" y2="540"/>
-<circle cx="45" cy="525" fill="orange" r="4" stroke="orange" stroke-width="1"/>
+<circle cx="60" cy="495" fill="turquoise" r="4" stroke="turquoise" stroke-width="1"/>
+<line stroke="turquoise" stroke-width="1" x1="60" x2="60" y1="510" y2="525"/>
+<path d="M60,510 L60,510 Q60,517.5,52.5,517.5 Q45,517.5,45,525 L45,540" fill="none" stroke="orange" stroke-width="1"/>
+<circle cx="60" cy="510" fill="white" r="4" stroke="turquoise" stroke-width="1"/>
+<line stroke="turquoise" stroke-width="1" x1="60" x2="60" y1="525" y2="585"/>
+<circle cx="60" cy="525" fill="turquoise" r="4" stroke="turquoise" stroke-width="1"/>
 <line stroke="orange" stroke-width="1" x1="45" x2="45" y1="540" y2="555"/>
-<path d="M45,540 L45,540 Q45,547.5,52.5,547.5 Q60,547.5,60,555 L60,570" fill="none" stroke="turquoise" stroke-width="1"/>
-<circle cx="45" cy="540" fill="white" r="4" stroke="orange" stroke-width="1"/>
-<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="555" y2="615"/>
-<circle cx="45" cy="555" fill="orange" r="4" stroke="orange" stroke-width="1"/>
-<line stroke="turquoise" stroke-width="1" x1="60" x2="60" y1="570" y2="585"/>
-<circle cx="60" cy="570" fill="turquoise" r="4" stroke="turquoise" stroke-width="1"/>
+<circle cx="45" cy="540" fill="orange" r="4" stroke="orange" stroke-width="1"/>
+<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="555" y2="570"/>
+<path d="M45,555 L45,555 Q45,562.5,52.5,562.5 Q60,562.5,60,570 L60,585" fill="none" stroke="turquoise" stroke-width="1"/>
+<circle cx="45" cy="555" fill="white" r="4" stroke="orange" stroke-width="1"/>
+<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="570" y2="630"/>
+<circle cx="45" cy="570" fill="orange" r="4" stroke="orange" stroke-width="1"/>
 <line stroke="turquoise" stroke-width="1" x1="60" x2="60" y1="585" y2="600"/>
-<path d="M60,585 L60,585 Q60,592.5,52.5,592.5 Q45,592.5,45,600 L45,615" fill="none" stroke="orange" stroke-width="1"/>
-<circle cx="60" cy="585" fill="white" r="4" stroke="turquoise" stroke-width="1"/>
-<line stroke="turquoise" stroke-width="1" x1="60" x2="60" y1="600" y2="660"/>
-<circle cx="60" cy="600" fill="turquoise" r="4" stroke="turquoise" stroke-width="1"/>
-<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="615" y2="630"/>
-<circle cx="45" cy="615" fill="orange" r="4" stroke="orange" stroke-width="1"/>
+<circle cx="60" cy="585" fill="turquoise" r="4" stroke="turquoise" stroke-width="1"/>
+<line stroke="turquoise" stroke-width="1" x1="60" x2="60" y1="600" y2="615"/>
+<path d="M60,600 L60,600 Q60,607.5,52.5,607.5 Q45,607.5,45,615 L45,630" fill="none" stroke="orange" stroke-width="1"/>
+<circle cx="60" cy="600" fill="white" r="4" stroke="turquoise" stroke-width="1"/>
+<line stroke="turquoise" stroke-width="1" x1="60" x2="60" y1="615" y2="675"/>
+<circle cx="60" cy="615" fill="turquoise" r="4" stroke="turquoise" stroke-width="1"/>
 <line stroke="orange" stroke-width="1" x1="45" x2="45" y1="630" y2="645"/>
-<path d="M45,630 L45,630 Q45,637.5,52.5,637.5 Q60,637.5,60,645 L60,660" fill="none" stroke="turquoise" stroke-width="1"/>
-<circle cx="45" cy="630" fill="white" r="4" stroke="orange" stroke-width="1"/>
-<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="645" y2="765"/>
-<circle cx="45" cy="645" fill="orange" r="4" stroke="orange" stroke-width="1"/>
-<line stroke="turquoise" stroke-width="1" x1="60" x2="60" y1="660" y2="675"/>
-<path d="M60,660 L60,660 Q60,667.5,45,667.5 Q30,667.5,30,675 L30,690" fill="none" stroke="orange" stroke-width="1"/>
-<circle cx="60" cy="660" fill="white" r="4" stroke="turquoise" stroke-width="1"/>
-<line stroke="turquoise" stroke-width="1" x1="60" x2="60" y1="675" y2="735"/>
-<circle cx="60" cy="675" fill="turquoise" r="4" stroke="turquoise" stroke-width="1"/>
-<line stroke="orange" stroke-width="1" x1="30" x2="30" y1="690" y2="705"/>
-<circle cx="30" cy="690" fill="orange" r="4" stroke="orange" stroke-width="1"/>
+<circle cx="45" cy="630" fill="orange" r="4" stroke="orange" stroke-width="1"/>
+<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="645" y2="660"/>
+<path d="M45,645 L45,645 Q45,652.5,52.5,652.5 Q60,652.5,60,660 L60,675" fill="none" stroke="turquoise" stroke-width="1"/>
+<circle cx="45" cy="645" fill="white" r="4" stroke="orange" stroke-width="1"/>
+<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="660" y2="780"/>
+<circle cx="45" cy="660" fill="orange" r="4" stroke="orange" stroke-width="1"/>
+<line stroke="turquoise" stroke-width="1" x1="60" x2="60" y1="675" y2="690"/>
+<path d="M60,675 L60,675 Q60,682.5,45,682.5 Q30,682.5,30,690 L30,705" fill="none" stroke="orange" stroke-width="1"/>
+<circle cx="60" cy="675" fill="white" r="4" stroke="turquoise" stroke-width="1"/>
+<line stroke="turquoise" stroke-width="1" x1="60" x2="60" y1="690" y2="750"/>
+<circle cx="60" cy="690" fill="turquoise" r="4" stroke="turquoise" stroke-width="1"/>
 <line stroke="orange" stroke-width="1" x1="30" x2="30" y1="705" y2="720"/>
 <circle cx="30" cy="705" fill="orange" r="4" stroke="orange" stroke-width="1"/>
-<path d="M30,720 L30,720 Q30,727.5,45,727.5 Q60,727.5,60,735 L60,735" fill="none" stroke="orange" stroke-width="1"/>
+<line stroke="orange" stroke-width="1" x1="30" x2="30" y1="720" y2="735"/>
 <circle cx="30" cy="720" fill="orange" r="4" stroke="orange" stroke-width="1"/>
-<line stroke="turquoise" stroke-width="1" x1="60" x2="60" y1="735" y2="750"/>
-<circle cx="60" cy="735" fill="turquoise" r="4" stroke="turquoise" stroke-width="1"/>
-<path d="M60,750 L60,750 Q60,757.5,52.5,757.5 Q45,757.5,45,765 L45,765" fill="none" stroke="turquoise" stroke-width="1"/>
+<path d="M30,735 L30,735 Q30,742.5,45,742.5 Q60,742.5,60,750 L60,750" fill="none" stroke="orange" stroke-width="1"/>
+<circle cx="30" cy="735" fill="orange" r="4" stroke="orange" stroke-width="1"/>
+<line stroke="turquoise" stroke-width="1" x1="60" x2="60" y1="750" y2="765"/>
 <circle cx="60" cy="750" fill="turquoise" r="4" stroke="turquoise" stroke-width="1"/>
-<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="765" y2="780"/>
-<path d="M45,765 L45,765 Q45,772.5,52.5,772.5 Q60,772.5,60,780 L60,795" fill="none" stroke="turquoise" stroke-width="1"/>
-<circle cx="45" cy="765" fill="white" r="4" stroke="orange" stroke-width="1"/>
-<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="780" y2="825"/>
-<circle cx="45" cy="780" fill="orange" r="4" stroke="orange" stroke-width="1"/>
-<line stroke="turquoise" stroke-width="1" x1="60" x2="60" y1="795" y2="810"/>
-<path d="M60,795 L60,795 Q60,802.5,52.5,802.5 Q45,802.5,45,810 L45,825" fill="none" stroke="orange" stroke-width="1"/>
-<circle cx="60" cy="795" fill="white" r="4" stroke="turquoise" stroke-width="1"/>
-<line stroke="turquoise" stroke-width="1" x1="60" x2="60" y1="810" y2="855"/>
-<circle cx="60" cy="810" fill="turquoise" r="4" stroke="turquoise" stroke-width="1"/>
-<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="825" y2="840"/>
-<path d="M45,825 L45,825 Q45,832.5,52.5,832.5 Q60,832.5,60,840 L60,855" fill="none" stroke="turquoise" stroke-width="1"/>
-<circle cx="45" cy="825" fill="white" r="4" stroke="orange" stroke-width="1"/>
-<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="840" y2="900"/>
-<circle cx="45" cy="840" fill="orange" r="4" stroke="orange" stroke-width="1"/>
-<line stroke="turquoise" stroke-width="1" x1="60" x2="60" y1="855" y2="870"/>
-<circle cx="60" cy="855" fill="turquoise" r="4" stroke="turquoise" stroke-width="1"/>
+<path d="M60,765 L60,765 Q60,772.5,52.5,772.5 Q45,772.5,45,780 L45,780" fill="none" stroke="turquoise" stroke-width="1"/>
+<circle cx="60" cy="765" fill="turquoise" r="4" stroke="turquoise" stroke-width="1"/>
+<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="780" y2="795"/>
+<path d="M45,780 L45,780 Q45,787.5,52.5,787.5 Q60,787.5,60,795 L60,810" fill="none" stroke="turquoise" stroke-width="1"/>
+<circle cx="45" cy="780" fill="white" r="4" stroke="orange" stroke-width="1"/>
+<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="795" y2="840"/>
+<circle cx="45" cy="795" fill="orange" r="4" stroke="orange" stroke-width="1"/>
+<line stroke="turquoise" stroke-width="1" x1="60" x2="60" y1="810" y2="825"/>
+<path d="M60,810 L60,810 Q60,817.5,52.5,817.5 Q45,817.5,45,825 L45,840" fill="none" stroke="orange" stroke-width="1"/>
+<circle cx="60" cy="810" fill="white" r="4" stroke="turquoise" stroke-width="1"/>
+<line stroke="turquoise" stroke-width="1" x1="60" x2="60" y1="825" y2="870"/>
+<circle cx="60" cy="825" fill="turquoise" r="4" stroke="turquoise" stroke-width="1"/>
+<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="840" y2="855"/>
+<path d="M45,840 L45,840 Q45,847.5,52.5,847.5 Q60,847.5,60,855 L60,870" fill="none" stroke="turquoise" stroke-width="1"/>
+<circle cx="45" cy="840" fill="white" r="4" stroke="orange" stroke-width="1"/>
+<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="855" y2="915"/>
+<circle cx="45" cy="855" fill="orange" r="4" stroke="orange" stroke-width="1"/>
 <line stroke="turquoise" stroke-width="1" x1="60" x2="60" y1="870" y2="885"/>
 <circle cx="60" cy="870" fill="turquoise" r="4" stroke="turquoise" stroke-width="1"/>
-<path d="M60,885 L60,885 Q60,892.5,52.5,892.5 Q45,892.5,45,900 L45,900" fill="none" stroke="turquoise" stroke-width="1"/>
+<line stroke="turquoise" stroke-width="1" x1="60" x2="60" y1="885" y2="900"/>
 <circle cx="60" cy="885" fill="turquoise" r="4" stroke="turquoise" stroke-width="1"/>
-<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="900" y2="915"/>
-<circle cx="45" cy="900" fill="orange" r="4" stroke="orange" stroke-width="1"/>
+<path d="M60,900 L60,900 Q60,907.5,52.5,907.5 Q45,907.5,45,915 L45,915" fill="none" stroke="turquoise" stroke-width="1"/>
+<circle cx="60" cy="900" fill="turquoise" r="4" stroke="turquoise" stroke-width="1"/>
 <line stroke="orange" stroke-width="1" x1="45" x2="45" y1="915" y2="930"/>
 <circle cx="45" cy="915" fill="orange" r="4" stroke="orange" stroke-width="1"/>
 <line stroke="orange" stroke-width="1" x1="45" x2="45" y1="930" y2="945"/>
-<path d="M45,930 L45,930 Q45,937.5,52.5,937.5 Q60,937.5,60,945 L60,975" fill="none" stroke="purple" stroke-width="1"/>
-<circle cx="45" cy="930" fill="white" r="4" stroke="orange" stroke-width="1"/>
+<circle cx="45" cy="930" fill="orange" r="4" stroke="orange" stroke-width="1"/>
 <line stroke="orange" stroke-width="1" x1="45" x2="45" y1="945" y2="960"/>
-<circle cx="45" cy="945" fill="orange" r="4" stroke="orange" stroke-width="1"/>
-<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="960" y2="990"/>
+<path d="M45,945 L45,945 Q45,952.5,52.5,952.5 Q60,952.5,60,960 L60,990" fill="none" stroke="purple" stroke-width="1"/>
+<circle cx="45" cy="945" fill="white" r="4" stroke="orange" stroke-width="1"/>
+<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="960" y2="975"/>
 <circle cx="45" cy="960" fill="orange" r="4" stroke="orange" stroke-width="1"/>
-<path d="M60,975 L60,975 Q60,982.5,52.5,982.5 Q45,982.5,45,990 L45,990" fill="none" stroke="purple" stroke-width="1"/>
-<circle cx="60" cy="975" fill="purple" r="4" stroke="purple" stroke-width="1"/>
-<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="990" y2="1005"/>
-<circle cx="45" cy="990" fill="orange" r="4" stroke="orange" stroke-width="1"/>
+<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="975" y2="1005"/>
+<circle cx="45" cy="975" fill="orange" r="4" stroke="orange" stroke-width="1"/>
+<path d="M60,990 L60,990 Q60,997.5,52.5,997.5 Q45,997.5,45,1005 L45,1005" fill="none" stroke="purple" stroke-width="1"/>
+<circle cx="60" cy="990" fill="purple" r="4" stroke="purple" stroke-width="1"/>
 <line stroke="orange" stroke-width="1" x1="45" x2="45" y1="1005" y2="1020"/>
 <circle cx="45" cy="1005" fill="orange" r="4" stroke="orange" stroke-width="1"/>
 <line stroke="orange" stroke-width="1" x1="45" x2="45" y1="1020" y2="1035"/>
@@ -149,20 +149,20 @@
 <line stroke="orange" stroke-width="1" x1="45" x2="45" y1="1035" y2="1050"/>
 <circle cx="45" cy="1035" fill="orange" r="4" stroke="orange" stroke-width="1"/>
 <line stroke="orange" stroke-width="1" x1="45" x2="45" y1="1050" y2="1065"/>
-<path d="M45,1050 L45,1050 Q45,1057.5,52.5,1057.5 Q60,1057.5,60,1065 L60,1095" fill="none" stroke="turquoise" stroke-width="1"/>
-<circle cx="45" cy="1050" fill="white" r="4" stroke="orange" stroke-width="1"/>
+<circle cx="45" cy="1050" fill="orange" r="4" stroke="orange" stroke-width="1"/>
 <line stroke="orange" stroke-width="1" x1="45" x2="45" y1="1065" y2="1080"/>
-<circle cx="45" cy="1065" fill="orange" r="4" stroke="orange" stroke-width="1"/>
-<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="1080" y2="1140"/>
+<path d="M45,1065 L45,1065 Q45,1072.5,52.5,1072.5 Q60,1072.5,60,1080 L60,1110" fill="none" stroke="turquoise" stroke-width="1"/>
+<circle cx="45" cy="1065" fill="white" r="4" stroke="orange" stroke-width="1"/>
+<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="1080" y2="1095"/>
 <circle cx="45" cy="1080" fill="orange" r="4" stroke="orange" stroke-width="1"/>
-<line stroke="turquoise" stroke-width="1" x1="60" x2="60" y1="1095" y2="1110"/>
-<circle cx="60" cy="1095" fill="turquoise" r="4" stroke="turquoise" stroke-width="1"/>
+<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="1095" y2="1155"/>
+<circle cx="45" cy="1095" fill="orange" r="4" stroke="orange" stroke-width="1"/>
 <line stroke="turquoise" stroke-width="1" x1="60" x2="60" y1="1110" y2="1125"/>
 <circle cx="60" cy="1110" fill="turquoise" r="4" stroke="turquoise" stroke-width="1"/>
-<path d="M60,1125 L60,1125 Q60,1132.5,52.5,1132.5 Q45,1132.5,45,1140 L45,1140" fill="none" stroke="turquoise" stroke-width="1"/>
+<line stroke="turquoise" stroke-width="1" x1="60" x2="60" y1="1125" y2="1140"/>
 <circle cx="60" cy="1125" fill="turquoise" r="4" stroke="turquoise" stroke-width="1"/>
-<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="1140" y2="1155"/>
-<circle cx="45" cy="1140" fill="orange" r="4" stroke="orange" stroke-width="1"/>
+<path d="M60,1140 L60,1140 Q60,1147.5,52.5,1147.5 Q45,1147.5,45,1155 L45,1155" fill="none" stroke="turquoise" stroke-width="1"/>
+<circle cx="60" cy="1140" fill="turquoise" r="4" stroke="turquoise" stroke-width="1"/>
 <line stroke="orange" stroke-width="1" x1="45" x2="45" y1="1155" y2="1170"/>
 <circle cx="45" cy="1155" fill="orange" r="4" stroke="orange" stroke-width="1"/>
 <line stroke="orange" stroke-width="1" x1="45" x2="45" y1="1170" y2="1185"/>
@@ -182,25 +182,25 @@
 <line stroke="orange" stroke-width="1" x1="45" x2="45" y1="1275" y2="1290"/>
 <circle cx="45" cy="1275" fill="orange" r="4" stroke="orange" stroke-width="1"/>
 <line stroke="orange" stroke-width="1" x1="45" x2="45" y1="1290" y2="1305"/>
-<path d="M45,1290 L45,1290 Q45,1297.5,60,1297.5 Q75,1297.5,75,1305 L75,1320" fill="none" stroke="purple" stroke-width="1"/>
-<circle cx="45" cy="1290" fill="white" r="4" stroke="orange" stroke-width="1"/>
-<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="1305" y2="1410"/>
-<circle cx="45" cy="1305" fill="orange" r="4" stroke="orange" stroke-width="1"/>
-<line stroke="purple" stroke-width="1" x1="75" x2="75" y1="1320" y2="1335"/>
-<circle cx="75" cy="1320" fill="purple" r="4" stroke="purple" stroke-width="1"/>
+<circle cx="45" cy="1290" fill="orange" r="4" stroke="orange" stroke-width="1"/>
+<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="1305" y2="1320"/>
+<path d="M45,1305 L45,1305 Q45,1312.5,60,1312.5 Q75,1312.5,75,1320 L75,1335" fill="none" stroke="purple" stroke-width="1"/>
+<circle cx="45" cy="1305" fill="white" r="4" stroke="orange" stroke-width="1"/>
+<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="1320" y2="1425"/>
+<circle cx="45" cy="1320" fill="orange" r="4" stroke="orange" stroke-width="1"/>
 <line stroke="purple" stroke-width="1" x1="75" x2="75" y1="1335" y2="1350"/>
 <circle cx="75" cy="1335" fill="purple" r="4" stroke="purple" stroke-width="1"/>
 <line stroke="purple" stroke-width="1" x1="75" x2="75" y1="1350" y2="1365"/>
-<path d="M75,1350 L75,1350 Q75,1357.5,60,1357.5 Q45,1357.5,45,1365 L45,1410" fill="none" stroke="orange" stroke-width="1"/>
-<circle cx="75" cy="1350" fill="white" r="4" stroke="purple" stroke-width="1"/>
-<path d="M75,1365 L75,1620 Q75,1627.5,45,1627.5 Q15,1627.5,15,1635 L15,1635" fill="none" stroke="purple" stroke-width="1"/>
-<circle cx="75" cy="1365" fill="purple" r="4" stroke="purple" stroke-width="1"/>
-<line stroke="gray" stroke-width="1" x1="90" x2="90" y1="1380" y2="1395"/>
-<circle cx="90" cy="1380" fill="gray" r="4" stroke="gray" stroke-width="1"/>
-<path d="M90,1395 L90,1620 Q90,1627.5,52.5,1627.5 Q15,1627.5,15,1635 L15,1635" fill="none" stroke="gray" stroke-width="1"/>
+<circle cx="75" cy="1350" fill="purple" r="4" stroke="purple" stroke-width="1"/>
+<line stroke="purple" stroke-width="1" x1="75" x2="75" y1="1365" y2="1380"/>
+<path d="M75,1365 L75,1365 Q75,1372.5,60,1372.5 Q45,1372.5,45,1380 L45,1425" fill="none" stroke="orange" stroke-width="1"/>
+<circle cx="75" cy="1365" fill="white" r="4" stroke="purple" stroke-width="1"/>
+<path d="M75,1380 L75,1635 Q75,1642.5,45,1642.5 Q15,1642.5,15,1650 L15,1650" fill="none" stroke="purple" stroke-width="1"/>
+<circle cx="75" cy="1380" fill="purple" r="4" stroke="purple" stroke-width="1"/>
+<line stroke="gray" stroke-width="1" x1="90" x2="90" y1="1395" y2="1410"/>
 <circle cx="90" cy="1395" fill="gray" r="4" stroke="gray" stroke-width="1"/>
-<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="1410" y2="1425"/>
-<circle cx="45" cy="1410" fill="orange" r="4" stroke="orange" stroke-width="1"/>
+<path d="M90,1410 L90,1635 Q90,1642.5,52.5,1642.5 Q15,1642.5,15,1650 L15,1650" fill="none" stroke="gray" stroke-width="1"/>
+<circle cx="90" cy="1410" fill="gray" r="4" stroke="gray" stroke-width="1"/>
 <line stroke="orange" stroke-width="1" x1="45" x2="45" y1="1425" y2="1440"/>
 <circle cx="45" cy="1425" fill="orange" r="4" stroke="orange" stroke-width="1"/>
 <line stroke="orange" stroke-width="1" x1="45" x2="45" y1="1440" y2="1455"/>
@@ -227,9 +227,11 @@
 <circle cx="45" cy="1590" fill="orange" r="4" stroke="orange" stroke-width="1"/>
 <line stroke="orange" stroke-width="1" x1="45" x2="45" y1="1605" y2="1620"/>
 <circle cx="45" cy="1605" fill="orange" r="4" stroke="orange" stroke-width="1"/>
-<path d="M45,1620 L45,1620 Q45,1627.5,30,1627.5 Q15,1627.5,15,1635 L15,1635" fill="none" stroke="orange" stroke-width="1"/>
+<line stroke="orange" stroke-width="1" x1="45" x2="45" y1="1620" y2="1635"/>
 <circle cx="45" cy="1620" fill="orange" r="4" stroke="orange" stroke-width="1"/>
-<line stroke="blue" stroke-width="1" x1="15" x2="15" y1="1635" y2="1650"/>
-<circle cx="15" cy="1635" fill="blue" r="4" stroke="blue" stroke-width="1"/>
+<path d="M45,1635 L45,1635 Q45,1642.5,30,1642.5 Q15,1642.5,15,1650 L15,1650" fill="none" stroke="orange" stroke-width="1"/>
+<circle cx="45" cy="1635" fill="orange" r="4" stroke="orange" stroke-width="1"/>
+<line stroke="blue" stroke-width="1" x1="15" x2="15" y1="1650" y2="1665"/>
 <circle cx="15" cy="1650" fill="blue" r="4" stroke="blue" stroke-width="1"/>
+<circle cx="15" cy="1665" fill="blue" r="4" stroke="blue" stroke-width="1"/>
 </svg>

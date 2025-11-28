@@ -1,0 +1,926 @@
+[
+  {
+    "name": "kyy008",
+    "commits": [
+      {
+        "date": "2025-10-17",
+        "title": "init: 2"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "init: 多模块项目init"
+      },
+      {
+        "date": "2025-10-18",
+        "title": "fix: 好了"
+      },
+      {
+        "date": "2025-10-18",
+        "title": "fix: 多模块依赖问题修复"
+      },
+      {
+        "date": "2025-10-19",
+        "title": "feat: 用户角色，角色权限关系表"
+      },
+      {
+        "date": "2025-10-19",
+        "title": "feat: 定义用户-角色-权限实体"
+      },
+      {
+        "date": "2025-10-20",
+        "title": "feat: Global Exception & jwtFilter"
+      },
+      {
+        "date": "2025-10-20",
+        "title": "feat: Redis 配置类 & 工具类"
+      },
+      {
+        "date": "2025-10-20",
+        "title": "feat: jwt_util & MyBatisPlusConfig"
+      },
+      {
+        "date": "2025-10-22",
+        "title": "feat: 异常类修改 & 安全配置类 & 身份权限异常处理类"
+      },
+      {
+        "date": "2025-10-23",
+        "title": "fix: 修复Knife4j 4.4.0 与 Spring Boot 3.5.6 兼容性问题"
+      },
+      {
+        "date": "2025-10-23",
+        "title": "fix: 修复了烂94j版本落后，现在可以看api文档了"
+      },
+      {
+        "date": "2025-10-23",
+        "title": "pref：更规范的命名"
+      },
+      {
+        "date": "2025-10-23",
+        "title": "fix: 修复烂版本不兼容导致的问题"
+      },
+      {
+        "date": "2025-10-23",
+        "title": "feat: 加一下用户身份认证类 UserDetailsServiceImpl"
+      },
+      {
+        "date": "2025-10-23",
+        "title": "feat: 增加了User的属性 & LoginController & LoginService"
+      },
+      {
+        "date": "2025-10-23",
+        "title": "pref: 更新一下Result 结果返回类"
+      },
+      {
+        "date": "2025-10-24",
+        "title": "feat: 日志接口相关逻辑"
+      },
+      {
+        "date": "2025-10-24",
+        "title": "feat: user控制类相关"
+      },
+      {
+        "date": "2025-10-24",
+        "title": "feat: 角色相关接口的开发"
+      },
+      {
+        "date": "2025-10-24",
+        "title": "feat: 注册(未完全开发)，mapper定义"
+      },
+      {
+        "date": "2025-10-25",
+        "title": "fix: 修复某些删除和查询时的bug，以及更健壮的数据库维护"
+      },
+      {
+        "date": "2025-10-25",
+        "title": "fix: 用户登录不区分大小写"
+      },
+      {
+        "date": "2025-10-25",
+        "title": "Merge remote-tracking branch 'origin/main'"
+      },
+      {
+        "date": "2025-10-25",
+        "title": "style: 藏一下"
+      },
+      {
+        "date": "2025-10-25",
+        "title": "style: 藏一下"
+      },
+      {
+        "date": "2025-10-25",
+        "title": "feat: 登录注册业务基本实现"
+      },
+      {
+        "date": "2025-10-28",
+        "title": "fix: 补充权限"
+      },
+      {
+        "date": "2025-10-28",
+        "title": "fix: mapper 修复"
+      },
+      {
+        "date": "2025-10-28",
+        "title": "Merge branch 'apitest' into dev"
+      },
+      {
+        "date": "2025-10-28",
+        "title": "fix: 对于更新科室只更新字符串不为空的字段"
+      },
+      {
+        "date": "2025-10-28",
+        "title": "feat: 科室接口基本跑通"
+      },
+      {
+        "date": "2025-10-29",
+        "title": "Merge branch 'apitest' into dev"
+      },
+      {
+        "date": "2025-10-29",
+        "title": "fix: 删除角色前，需要检查逻辑外键约束"
+      },
+      {
+        "date": "2025-10-29",
+        "title": "Merge branch 'apitest' into dev"
+      },
+      {
+        "date": "2025-10-29",
+        "title": "fix: 删除部门前，需要检查逻辑外键约束"
+      },
+      {
+        "date": "2025-10-29",
+        "title": "fix: 修复之前部门错误的删除逻辑"
+      },
+      {
+        "date": "2025-10-29",
+        "title": "fix: 修复之前医生档案错误的删除逻辑"
+      },
+      {
+        "date": "2025-10-29",
+        "title": "fix: 重构更新医生档案逻辑，请求更新空串不会更新"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "feat: 已实现通过userId查询医生档案，包括检查角色以及创建默认档案的逻辑"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "feat: 增加角色类型枚举类"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "Merge branch 'apitest' into dev"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "feat: 实现更新doctorProfile by userId"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "style: 暂无"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "feat: 已实现查询所有医生信息"
+      },
+      {
+        "date": "2025-11-01",
+        "title": "feat: schedule 复制上周排班初步实现"
+      },
+      {
+        "date": "2025-11-01",
+        "title": "feat: schedule 相关逻辑外键保证"
+      },
+      {
+        "date": "2025-11-01",
+        "title": "fix：ScheduleController 相关改动"
+      },
+      {
+        "date": "2025-11-01",
+        "title": "feat: 排班的基本增删改查逻辑"
+      },
+      {
+        "date": "2025-11-01",
+        "title": "feat: 排班实体与DTO、号源类型枚举类"
+      },
+      {
+        "date": "2025-11-01",
+        "title": "feat: 排班相关权限"
+      },
+      {
+        "date": "2025-11-01",
+        "title": "feat: 添加出诊时段枚举类"
+      },
+      {
+        "date": "2025-11-02",
+        "title": "fix：添加排班字段的相关约束"
+      },
+      {
+        "date": "2025-11-03",
+        "title": "fix: 修复判断逻辑"
+      },
+      {
+        "date": "2025-11-03",
+        "title": "style: 取缔排班表department_id 外键"
+      },
+      {
+        "date": "2025-11-03",
+        "title": "fix：更新创建排班的用户约束"
+      },
+      {
+        "date": "2025-11-03",
+        "title": "feat: 排班范围查询"
+      },
+      {
+        "date": "2025-11-03",
+        "title": "fix：不再暴露 isDeleted"
+      },
+      {
+        "date": "2025-11-05",
+        "title": "Merge branch 'apitest' into dev"
+      },
+      {
+        "date": "2025-11-05",
+        "title": "fix: 暂无部门的相关判断"
+      },
+      {
+        "date": "2025-11-11",
+        "title": "feat：实装code：204 的规则"
+      },
+      {
+        "date": "2025-11-11",
+        "title": "feat：实装code：205 的规则"
+      },
+      {
+        "date": "2025-11-11",
+        "title": "feat：姑且实现取消预约，实装code：202 的规则"
+      },
+      {
+        "date": "2025-11-11",
+        "title": "fix: 时段格式问题"
+      },
+      {
+        "date": "2025-11-11",
+        "title": "feat: 实装code：105 的规则"
+      },
+      {
+        "date": "2025-11-11",
+        "title": "feat: 实装code：104 的规则"
+      },
+      {
+        "date": "2025-11-11",
+        "title": "feat: 实装code：103 的规则"
+      },
+      {
+        "date": "2025-11-11",
+        "title": "feat: 实装code：102 的规则"
+      },
+      {
+        "date": "2025-11-11",
+        "title": "feat: 实装code：101 的规则"
+      },
+      {
+        "date": "2025-11-12",
+        "title": "feat：添加规则 105 的修改约束"
+      },
+      {
+        "date": "2025-11-12",
+        "title": "feat：添加规则 103 的修改约束"
+      },
+      {
+        "date": "2025-11-12",
+        "title": "feat：添加规则 101 和 102 的修改约束🐟🐟"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "feat：报销优惠"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "fix：更新某同学设计的烂接口"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "fix：修复取消预约不能再预约的bug"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "feat: 支付接口"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "fix: 不好说"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "Merge branch 'dev' of github.com:HFDLYS/HCMU-Hospital-Backend into dev"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "fix: 返回完整取消预约DTO"
+      },
+      {
+        "date": "2025-11-15",
+        "title": "feat: 搞了一下上传文件/图片的接口"
+      },
+      {
+        "date": "2025-11-16",
+        "title": "fix：修复预约成功返回的信息不全"
+      },
+      {
+        "date": "2025-11-16",
+        "title": "feat：预约成功后，可以发送预约成功邮件"
+      },
+      {
+        "date": "2025-11-16",
+        "title": "feat：邮箱服务的扩展"
+      },
+      {
+        "date": "2025-11-17",
+        "title": "feat: 医生查询已预约患者列表的接口"
+      },
+      {
+        "date": "2025-11-17",
+        "title": "feat: 医生查询自己名下排班接口"
+      },
+      {
+        "date": "2025-11-17",
+        "title": "fix：获取排班需要权限"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "fix: 按号源时间返回医生旗下的排班"
+      },
+      {
+        "date": "2025-11-23",
+        "title": "fix: 状态筛选"
+      },
+      {
+        "date": "2025-11-23",
+        "title": "feat: 基于模板导入医生周排班实现"
+      },
+      {
+        "date": "2025-11-24",
+        "title": "feat：支付过期时间加入全局配置类，添加支付controller接口"
+      },
+      {
+        "date": "2025-11-24",
+        "title": "feat：姑且瞎搞出了候补任务🐟🐟"
+      },
+      {
+        "date": "2025-11-24",
+        "title": "feat：姑且瞎搞出了候补任务🐟🐟"
+      },
+      {
+        "date": "2025-11-24",
+        "title": "feat：补全之前的TODO约束"
+      },
+      {
+        "date": "2025-11-24",
+        "title": "feat: 重载预约接口"
+      },
+      {
+        "date": "2025-11-24",
+        "title": "feat: 患者加入候补"
+      },
+      {
+        "date": "2025-11-24",
+        "title": "feat: 候补权限"
+      },
+      {
+        "date": "2025-11-24",
+        "title": "feat: 候补增删改查"
+      },
+      {
+        "date": "2025-11-24",
+        "title": "feat: 候补枚举类"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "fix: 修复一些测试出的问题"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "fix: 试图修复时间问题"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "fix: 修复取消候补不能再候补的bug"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "feat: 预约相关接口返回逾期时间"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "feat: 姑且实现预约支付超时"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "Merge branch 'dev'"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "feat: 添加支付过期时间小于停止预约时间的约束"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "feat: 添加根据用户Id查询候补列表的接口"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "feat: 按照同学的要求修改waitlist返回信息"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "feat：取消候补接口(未支付)"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "fix：修复候补到预约的支付状态问题"
+      }
+    ]
+  },
+  {
+    "name": "HFDLYS",
+    "commits": [
+      {
+        "date": "2025-10-23",
+        "title": "Merge remote-tracking branch 'origin/main'"
+      },
+      {
+        "date": "2025-10-23",
+        "title": "docs: 增加.gitignore条目"
+      },
+      {
+        "date": "2025-10-26",
+        "title": "fix: 修后一波，应该修好了"
+      },
+      {
+        "date": "2025-10-26",
+        "title": "fix: 继续修复烂摊子"
+      },
+      {
+        "date": "2025-10-26",
+        "title": "fix: 修复pageDTO重大问题"
+      },
+      {
+        "date": "2025-10-26",
+        "title": "feat: 修正一下权限"
+      },
+      {
+        "date": "2025-10-26",
+        "title": "feat: 有特色的权限列表"
+      },
+      {
+        "date": "2025-10-26",
+        "title": "feat: 跨域访问有大坑"
+      },
+      {
+        "date": "2025-10-26",
+        "title": "feat: 为什么不配置cors"
+      },
+      {
+        "date": "2025-10-27",
+        "title": "Merge pull request #2 from HachimiResort/dev"
+      },
+      {
+        "date": "2025-10-27",
+        "title": "fix: 修正用户注册DTO"
+      },
+      {
+        "date": "2025-10-27",
+        "title": "Merge pull request #1 from HachimiResort/dev"
+      },
+      {
+        "date": "2025-10-27",
+        "title": "fix: 修正nickname之争"
+      },
+      {
+        "date": "2025-10-27",
+        "title": "feat: 光复日志登记系统"
+      },
+      {
+        "date": "2025-10-27",
+        "title": "fix: app/config/application not found"
+      },
+      {
+        "date": "2025-10-27",
+        "title": "fix: -bash: line 96: warning: here-document at line 19 delimited by end-of-file (wanted `CONFIG_EOF')"
+      },
+      {
+        "date": "2025-10-27",
+        "title": "ci: 初步尝试"
+      },
+      {
+        "date": "2025-10-27",
+        "title": "fix: 修复姓名没有被select的问题"
+      },
+      {
+        "date": "2025-10-28",
+        "title": "docs: 切割所有非标准的application.yml"
+      },
+      {
+        "date": "2025-10-29",
+        "title": "Merge remote-tracking branch 'origin/dev' into dev"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "Merge pull request #3 from HachimiResort/apitest"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "fix: 修正封建残余"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "feat: 更新新roleDTO"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "Revert \"文件数据导入抽象类以及用户文件导入接口\""
+      },
+      {
+        "date": "2025-10-31",
+        "title": "fix: .."
+      },
+      {
+        "date": "2025-10-31",
+        "title": "fix: 修正矫正过枉的注册逻辑"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "Merge pull request #7 from HachimiResort/dev"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "feat: 完成删除角色的逻辑"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "feat: 修正患者接口的相关问题"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "Merge remote-tracking branch 'origin/apitest' into dev"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "feat: 初步完成患者接口"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "Merge pull request #6 from HachimiResort/dev"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "feat: 更新获取待注册用户的接口"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "Merge remote-tracking branch 'origin/dev' into dev"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "feat: 姑且实现用户导入"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "Merge pull request #5 from HachimiResort/apitest"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "docs: 更新描述"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "Merge remote-tracking branch 'origin/apitest' into apitest"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "feat: 更新相关的权限控制"
+      },
+      {
+        "date": "2025-11-04",
+        "title": "fix: 修复dockerfile中jdk被抛弃的问题"
+      },
+      {
+        "date": "2025-11-04",
+        "title": "fix: 修复dockerfile中jdk被抛弃的问题"
+      },
+      {
+        "date": "2025-11-04",
+        "title": "Merge pull request #8 from HachimiResort/dev"
+      },
+      {
+        "date": "2025-11-05",
+        "title": "fix: 修复关于患者无法正确单点获取的历史预留问题"
+      },
+      {
+        "date": "2025-11-05",
+        "title": "fix: 档案的查询与管理以人为本"
+      },
+      {
+        "date": "2025-11-05",
+        "title": "Merge pull request #10 from HachimiResort/dev"
+      },
+      {
+        "date": "2025-11-05",
+        "title": "feat: 姑且返回真实姓名"
+      },
+      {
+        "date": "2025-11-05",
+        "title": "fix: 姑且修复当一个角色被取消地位的时候依旧会返回其档案"
+      },
+      {
+        "date": "2025-11-05",
+        "title": "Merge pull request #9 from HachimiResort/ghc"
+      },
+      {
+        "date": "2025-11-05",
+        "title": "fix: 修复删除角色"
+      },
+      {
+        "date": "2025-11-05",
+        "title": "fix: 修复不写入数据库的问题"
+      },
+      {
+        "date": "2025-11-05",
+        "title": "feat: 更新最新的注册逻辑"
+      },
+      {
+        "date": "2025-11-05",
+        "title": "fix: 修复接口返回的数据不够的问题"
+      },
+      {
+        "date": "2025-11-05",
+        "title": "fix: 为什么经典只改一半？"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "Merge branch 'dev' into ghc"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "fix: 额外新增医院规则枚举类"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "Merge branch 'dev' into ghc"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "Merge pull request #13 from HachimiResort/dev"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "feat: 修正部分接口的路由，如预约记录"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "feat: 更新预约功能"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "feat: 简单写一下预约的接口"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "Merge branch 'ghc' into dev"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "feat: 更新获取自己预约的接口"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "feat: 更新获取规则数值的方式"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "Merge pull request #14 from HachimiResort/dev"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "feat: 更新运营规则修改"
+      },
+      {
+        "date": "2025-11-12",
+        "title": "Merge pull request #16 from HachimiResort/dev"
+      },
+      {
+        "date": "2025-11-12",
+        "title": "fix: 修正预约相关接口的名"
+      },
+      {
+        "date": "2025-11-12",
+        "title": "Merge pull request #15 from HachimiResort/dev"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "Merge pull request #18 from HachimiResort/dev"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "fix: 修正学生和教职工的报销额度"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "Merge pull request #17 from HachimiResort/dev"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "Merge pull request #20 from HachimiResort/dev"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "feat: 更新医生管理页面的权限"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "Merge pull request #19 from HachimiResort/dev"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "feat: 修复获取个人档案等接口等权限"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "feat: 更新医生自我更新的接口"
+      },
+      {
+        "date": "2025-11-17",
+        "title": "Merge pull request #21 from HachimiResort/dev"
+      },
+      {
+        "date": "2025-11-17",
+        "title": "feat: 修正医生查询自己名下的排班接口增加分页功能"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "Merge pull request #22 from HachimiResort/dev"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "feat: 完善对预约的一系列操作"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "fix: 修复类型错误"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "fix: 修复未检测星期导致的问题"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "Merge pull request #26 from HachimiResort/dev"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "feat: 完善医生挂号模板"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "feat: 新增排版模板接口"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "Merge pull request #25 from HachimiResort/dev"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "feat: 表名大更改"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "Merge pull request #24 from HachimiResort/dev"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "feat: 更新相应的挂号通知"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "Merge pull request #23 from HachimiResort/dev"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "feat: 更新权限"
+      },
+      {
+        "date": "2025-11-26",
+        "title": "Merge pull request #27 from HachimiResort/dev"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "fix: 修复docker部署时的时区问题"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "Merge remote-tracking branch 'origin/dev' into dev"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "feat: 姑且完成调班申请的接口"
+      }
+    ]
+  },
+  {
+    "name": "Ashens123",
+    "commits": [
+      {
+        "date": "2025-10-28",
+        "title": "实现医生档案api接口"
+      },
+      {
+        "date": "2025-10-28",
+        "title": "修正为正确数据库的api接口"
+      },
+      {
+        "date": "2025-10-29",
+        "title": "文件数据导入抽象类以及用户文件导入接口"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "添加科室查询NotNull检测"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "新增文件上传角色的判断逻辑"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "查询某个科室下所有的医生"
+      },
+      {
+        "date": "2025-11-05",
+        "title": "Update .gitignore"
+      },
+      {
+        "date": "2025-11-05",
+        "title": "修一下忘记改了的DTO"
+      },
+      {
+        "date": "2025-11-05",
+        "title": "预约查询接口"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "fix: 恢复用户查询预约的权限判断"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "feat: 新增用户查询预约记录"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "删个漏掉的东西"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "候诊队列查询接口实现"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "Merge pull request #11 from HachimiResort/dev"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "暂时移除权限控制"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "feat: 配置规则修改实现"
+      }
+    ]
+  },
+  {
+    "name": "Kyy008",
+    "commits": [
+      {
+        "date": "2025-10-25",
+        "title": "Delete HCMU-server/src/main/resources/application-dev.yml"
+      },
+      {
+        "date": "2025-10-28",
+        "title": "Delete HCMU-server/src/main/.DS_Store"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "Merge pull request #30 from HachimiResort/dev"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "Merge pull request #29 from HachimiResort/dev"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "Merge pull request #28 from HachimiResort/dev"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "Merge pull request #31 from HachimiResort/dev"
+      }
+    ]
+  }
+]

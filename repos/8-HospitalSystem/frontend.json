@@ -1,0 +1,97 @@
+[
+  {
+    "name": "米芒的李",
+    "commits": [
+      {
+        "date": "2025-10-22",
+        "title": "有页面了，但是还有点bug，等会再调，另外文件结构可能和组长的不一样，等组长能够上传的时候我对着调一下。"
+      },
+      {
+        "date": "2025-10-22",
+        "title": "init"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "Merge branch 'Frontend' of https://github.com/CNlaziji/BJTU-CampusCare into Frontend"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "Temporary commit to save local files"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "test提交"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "验证码整合成功，本地测试通过"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "简化了主页，等以后功能齐全再考虑美化"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "界面美化"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "界面美化"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "功能合并"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "管理员批准放假与否"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "Resolve all frontend merge conflicts"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "Resolve all merge conflicts"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "Apply stashed changes after merge"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "Merge remote-tracking branch 'origin/main' into main with resolved conflicts"
+      }
+    ]
+  },
+  {
+    "name": "JMshepherd227",
+    "commits": [
+      {
+        "date": "2025-11-06",
+        "title": "新增了患者查询预约记录与取消预约记录的功能"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "医生端完善与静态管理员端"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "添加了医生端的叫号过号功能"
+      },
+      {
+        "date": "2025-11-26",
+        "title": "重新连接了前后端，完善了医生端前端部分"
+      }
+    ]
+  },
+  {
+    "name": "LaZiJi",
+    "commits": [
+      {
+        "date": "2025-11-05",
+        "title": "feat: 初始化BJTU校医院预约挂号系统前端项目"
+      }
+    ]
+  }
+]

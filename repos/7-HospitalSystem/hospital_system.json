@@ -1,0 +1,815 @@
+[
+  {
+    "name": "DoyeonKing",
+    "commits": [
+      {
+        "date": "2025-10-12",
+        "title": "增加了管理员的web端"
+      },
+      {
+        "date": "2025-10-12",
+        "title": "表结构设计完毕"
+      },
+      {
+        "date": "2025-10-12",
+        "title": "目前小程序和web端初始项目以构建完毕，数据库部分之后会进行更改，请大家耐心等候"
+      },
+      {
+        "date": "2025-10-12",
+        "title": "Initial commit"
+      },
+      {
+        "date": "2025-10-13",
+        "title": "Merge remote-tracking branch 'origin/zhangbolong' into jintaoran"
+      },
+      {
+        "date": "2025-10-14",
+        "title": "表结构部分"
+      },
+      {
+        "date": "2025-10-14",
+        "title": "注册登录部分制作完成"
+      },
+      {
+        "date": "2025-10-14",
+        "title": "Merge remote-tracking branch 'origin/zhangbolong' into jintaoran"
+      },
+      {
+        "date": "2025-10-14",
+        "title": "表结构修改"
+      },
+      {
+        "date": "2025-10-16",
+        "title": "Merge remote-tracking branch 'origin/wangwei' into jintaoran"
+      },
+      {
+        "date": "2025-10-16",
+        "title": "患者端激活部分接口连接成功"
+      },
+      {
+        "date": "2025-10-16",
+        "title": "Merge remote-tracking branch 'origin/zhangbolong' into jintaoran"
+      },
+      {
+        "date": "2025-10-16",
+        "title": "表结构修改"
+      },
+      {
+        "date": "2025-10-16",
+        "title": "Merge remote-tracking branch 'origin/qiuyuying' into jintaoran"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "Merge remote-tracking branch 'origin/zhangbolong3.0' into jintaoran"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "Merge remote-tracking branch 'origin/qiuyuying' into jintaoran"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "接口连接"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "Merge remote-tracking branch 'origin/wangwei' into jintaoran"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "Merge remote-tracking branch 'origin/zhangbolong' into jintaoran"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "登录接口已ok"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "账号激活做完了"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "Merge remote-tracking branch 'origin/qiuyuying' into jintaoran"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "Merge remote-tracking branch 'origin/qiuyuying' into jintaoran"
+      },
+      {
+        "date": "2025-10-18",
+        "title": "号别管理与就医规范前端完成-数据库表结构修改完成-sql语句更新完成"
+      },
+      {
+        "date": "2025-10-22",
+        "title": "添加属性值"
+      },
+      {
+        "date": "2025-10-22",
+        "title": "Merge remote-tracking branch 'origin/qiuyuying' into jintaoran"
+      },
+      {
+        "date": "2025-10-22",
+        "title": "修改了医生用户创建语句，已成功运行"
+      },
+      {
+        "date": "2025-10-23",
+        "title": "登录问题解决"
+      },
+      {
+        "date": "2025-10-23",
+        "title": "就医规范和细节改完了，增加号别测试用例"
+      },
+      {
+        "date": "2025-10-23",
+        "title": "Merge remote-tracking branch 'origin/wangwei' into jintaoran"
+      },
+      {
+        "date": "2025-10-23",
+        "title": "号别管理后端代码以及前后端连接完成"
+      },
+      {
+        "date": "2025-10-24",
+        "title": "救命"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "工时统计前后端完成"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "挂号"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "Merge remote-tracking branch 'origin/zhangbolong4.0' into jintaoran"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "Merge remote-tracking branch 'origin/wangwei' into jintaoran"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "Merge remote-tracking branch 'origin/qiuyuying01' into jintaoran"
+      },
+      {
+        "date": "2025-11-02",
+        "title": "患者挂号部分前端功能已经完全实现，也使用现有接口完成了一部份功能，未完成的接口已写接口文档上传"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "bug修改完成，并且处理了重复预约问题"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "基本预约接口连接完成"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "初版"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "添加改约"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "Merge remote-tracking branch 'origin/qiuyuying01' into jintaoran"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "登陆问题解决"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "挂号排序问题解决完毕"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "Merge remote-tracking branch 'origin/qiuyuying01' into jintaoran"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "Merge remote-tracking branch 'origin/zhangbolong4.0' into jintaoran"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "候补完成"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "Merge remote-tracking branch 'origin/wangwei' into jintaoran"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "Update application.yml"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "Merge remote-tracking branch 'origin/qiuyuying01' into jintaoran"
+      },
+      {
+        "date": "2025-11-23",
+        "title": "Merge remote-tracking branch 'origin/zhangbolong4.0' into jintaoran"
+      },
+      {
+        "date": "2025-11-23",
+        "title": "候补功能完成"
+      },
+      {
+        "date": "2025-11-23",
+        "title": "签到功能完成，DOCKER配置完成"
+      },
+      {
+        "date": "2025-11-24",
+        "title": "页面"
+      },
+      {
+        "date": "2025-11-25",
+        "title": "签到流程更新"
+      },
+      {
+        "date": "2025-11-26",
+        "title": "现场挂号/退款完成"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "地理导航完事了70%还有一堆bug"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "地理导航部分功能"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "Merge remote-tracking branch 'origin/qiuyuying01' into jintaoran"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "yml"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "bug"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "地图"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "11"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "Merge branch 'jintaoran' into jintaoranNavigation"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "bug候补"
+      },
+      {
+        "date": "2025-11-28",
+        "title": "其他乱七八糟文件"
+      }
+    ]
+  },
+  {
+    "name": "zbl123-914",
+    "commits": [
+      {
+        "date": "2025-10-12",
+        "title": "Merge branch 'jintaoran' into zhangbolong"
+      },
+      {
+        "date": "2025-10-12",
+        "title": "sdklasjdklaskl"
+      },
+      {
+        "date": "2025-10-12",
+        "title": "尝试"
+      },
+      {
+        "date": "2025-10-13",
+        "title": "管理员前端 科室管理、用户管理"
+      },
+      {
+        "date": "2025-10-16",
+        "title": "Merge branch 'jintaoran' into zhangbolong"
+      },
+      {
+        "date": "2025-10-16",
+        "title": "改了一些＋排班初稿"
+      },
+      {
+        "date": "2025-10-16",
+        "title": "Merge remote-tracking branch 'origin/qiuyuying' into zhangbolong"
+      },
+      {
+        "date": "2025-10-16",
+        "title": "11"
+      },
+      {
+        "date": "2025-10-16",
+        "title": "科室创建更新"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "排班2.0"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "实现医生排班办公地点前端界面"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "叉终于好了"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "叉的第一个后端接口连接"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "修复bug"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "不知道"
+      },
+      {
+        "date": "2025-10-18",
+        "title": "加了挂号费用 更新了排班增加了月、日视图"
+      },
+      {
+        "date": "2025-10-19",
+        "title": "高亮、批量排班"
+      },
+      {
+        "date": "2025-10-20",
+        "title": "呵呵"
+      },
+      {
+        "date": "2025-10-21",
+        "title": "排班final1"
+      },
+      {
+        "date": "2025-10-24",
+        "title": "sdjklasjld"
+      },
+      {
+        "date": "2025-10-24",
+        "title": "Merge branch 'jintaoran' into zhangbolong3.0"
+      },
+      {
+        "date": "2025-10-24",
+        "title": "Merge branch 'qiuyuying' into zhangbolong3.0"
+      },
+      {
+        "date": "2025-10-24",
+        "title": "123123"
+      },
+      {
+        "date": "2025-10-25",
+        "title": "连连连"
+      },
+      {
+        "date": "2025-10-25",
+        "title": "我的妈呀我先commit一下1.0"
+      },
+      {
+        "date": "2025-10-27",
+        "title": "这是啥啊"
+      },
+      {
+        "date": "2025-10-27",
+        "title": "Merge remote-tracking branch 'origin/wangwei' into zhangbolong4.0"
+      },
+      {
+        "date": "2025-10-27",
+        "title": "连上拉连上拉"
+      },
+      {
+        "date": "2025-10-27",
+        "title": "借口连不上 谁来接力"
+      },
+      {
+        "date": "2025-10-28",
+        "title": "改好啦改好啦"
+      },
+      {
+        "date": "2025-10-28",
+        "title": "Merge remote-tracking branch 'origin/wangwei' into zhangbolong4.0"
+      },
+      {
+        "date": "2025-11-17",
+        "title": "改了改了"
+      },
+      {
+        "date": "2025-11-17",
+        "title": "排班、患者信息、个人信息编辑前端1.0"
+      },
+      {
+        "date": "2025-11-17",
+        "title": "我做了点怕没了先交上来"
+      },
+      {
+        "date": "2025-11-18",
+        "title": "连了一个"
+      },
+      {
+        "date": "2025-11-18",
+        "title": "3.0"
+      },
+      {
+        "date": "2025-11-18",
+        "title": "2.0"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "厚米"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "合并好了"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "头像over"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "Merge remote-tracking branch 'origin/wangwei' into zhangbolong4.0"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "123"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "Merge remote-tracking branch 'origin/qiuyuying01' into zhangbolong4.0"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "连好了1.0"
+      },
+      {
+        "date": "2025-11-22",
+        "title": "数据大屏1.0"
+      },
+      {
+        "date": "2025-11-26",
+        "title": "Merge branch 'jintaoran' into zhangbolong4.0"
+      },
+      {
+        "date": "2025-11-26",
+        "title": "123"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "这是屎 勿拉"
+      }
+    ]
+  },
+  {
+    "name": "QqYyying",
+    "commits": [
+      {
+        "date": "2025-10-16",
+        "title": "医生账号激活后端+entity类部分更新"
+      },
+      {
+        "date": "2025-10-16",
+        "title": "Merge remote-tracking branch 'origin/wangwei' into qiuyuying"
+      },
+      {
+        "date": "2025-10-16",
+        "title": "Merge remote-tracking branch 'origin/zhangbolong' into qiuyuying"
+      },
+      {
+        "date": "2025-10-16",
+        "title": "账号激活的后端"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "科室信息管理over"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "科室管理（除编辑科室和删除科室）"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "Merge remote-tracking branch 'origin/zhangbolong' into qiuyuying"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "一坨远离"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "Merge remote-tracking branch 'origin/zhangbolong' into qiuyuying"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "科室管理前端更改+部分接口连接"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "科室管理后端"
+      },
+      {
+        "date": "2025-10-22",
+        "title": "修好了科室管理"
+      },
+      {
+        "date": "2025-10-23",
+        "title": "添加医生页面优化"
+      },
+      {
+        "date": "2025-10-23",
+        "title": "Merge remote-tracking branch 'origin/jintaoran' into qiuyuying"
+      },
+      {
+        "date": "2025-10-23",
+        "title": "一些图"
+      },
+      {
+        "date": "2025-10-29",
+        "title": "Merge remote-tracking branch 'origin/zhangbolong4.0' into qiuyuying01"
+      },
+      {
+        "date": "2025-10-29",
+        "title": "别管"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "自动排班3.0"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "Merge remote-tracking branch 'origin/jintaoran' into qiuyuying01"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "自动排班2.0"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "自动排班1.0"
+      },
+      {
+        "date": "2025-11-02",
+        "title": "自动排班4.0"
+      },
+      {
+        "date": "2025-11-03",
+        "title": "Merge remote-tracking branch 'origin/jintaoran' into qiuyuying01"
+      },
+      {
+        "date": "2025-11-04",
+        "title": "科室删除修好了+科室地点管理+症状映射管理"
+      },
+      {
+        "date": "2025-11-04",
+        "title": "waitlist接口改动"
+      },
+      {
+        "date": "2025-11-04",
+        "title": "Merge remote-tracking branch 'origin/wangwei' into qiuyuying01"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "患者端医生简介显示"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "Merge remote-tracking branch 'origin/jintaoran' into qiuyuying01"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "Merge remote-tracking branch 'origin/jintaoran' into qiuyuying01"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "怪怪的"
+      },
+      {
+        "date": "2025-11-18",
+        "title": "Merge remote-tracking branch 'origin/zhangbolong4.0' into qiuyuying01"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "工作台患者人数显示"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "Merge remote-tracking branch 'origin/zhangbolong4.0' into qiuyuying01"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "111"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "Merge remote-tracking branch 'origin/jintaoran' into qiuyuying01"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "合并ok"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "Merge remote-tracking branch 'origin/zhangbolong4.0' into qiuyuying01"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "患者信息查看+工作台排班信息展示"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "医生”我的排班”周视图和月视图实现"
+      },
+      {
+        "date": "2025-11-24",
+        "title": "Merge remote-tracking branch 'origin/jintaoran' into qiuyuying01"
+      },
+      {
+        "date": "2025-11-24",
+        "title": "Merge remote-tracking branch 'origin/jintaoran' into qiuyuying01"
+      },
+      {
+        "date": "2025-11-24",
+        "title": "合并了数据大屏"
+      },
+      {
+        "date": "2025-11-25",
+        "title": "请假申请+审批v1"
+      },
+      {
+        "date": "2025-11-26",
+        "title": "删了“费用规则”"
+      },
+      {
+        "date": "2025-11-26",
+        "title": "Merge remote-tracking branch 'origin/jintaoran' into qiuyuying01"
+      },
+      {
+        "date": "2025-11-26",
+        "title": "请假申请+批准实现"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "加号"
+      }
+    ]
+  },
+  {
+    "name": "OnionHead12333",
+    "commits": [
+      {
+        "date": "2025-10-15",
+        "title": "后端基础框架"
+      },
+      {
+        "date": "2025-10-16",
+        "title": "后端"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "1"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "11"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "1"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "Merge remote-tracking branch 'origin/qiuyuying' into wangwei"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "11"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "1"
+      },
+      {
+        "date": "2025-10-22",
+        "title": "111"
+      },
+      {
+        "date": "2025-10-22",
+        "title": "111"
+      },
+      {
+        "date": "2025-10-24",
+        "title": "11"
+      },
+      {
+        "date": "2025-10-25",
+        "title": "11"
+      },
+      {
+        "date": "2025-10-27",
+        "title": "11"
+      },
+      {
+        "date": "2025-10-27",
+        "title": "11"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "111"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "11"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "Merge remote-tracking branch 'origin/qiuyuying01' into wangwei"
+      },
+      {
+        "date": "2025-10-31",
+        "title": "11"
+      },
+      {
+        "date": "2025-11-03",
+        "title": "11"
+      },
+      {
+        "date": "2025-11-04",
+        "title": "11"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "Merge branch 'jintaoran' into wangwei"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "Merge branch 'jintaoran' into wangwei"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "11"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "Merge branch 'jintaoran' into wangwei"
+      },
+      {
+        "date": "2025-11-18",
+        "title": "11"
+      },
+      {
+        "date": "2025-11-18",
+        "title": "Merge remote-tracking branch 'origin/zhangbolong4.0' into wangwei"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "11"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "11"
+      },
+      {
+        "date": "2025-11-21",
+        "title": "1"
+      },
+      {
+        "date": "2025-11-23",
+        "title": "Merge remote-tracking branch 'origin/zhangbolong4.0' into wangwei"
+      },
+      {
+        "date": "2025-11-26",
+        "title": "Merge branch 'jintaoran' into wangwei"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "Merge remote-tracking branch 'origin/qiuyuying' into wangwei2.0"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "11"
+      }
+    ]
+  },
+  {
+    "name": "Jade17-lei",
+    "commits": [
+      {
+        "date": "2025-10-17",
+        "title": "hhh"
+      },
+      {
+        "date": "2025-10-17",
+        "title": "vvv"
+      }
+    ]
+  }
+]

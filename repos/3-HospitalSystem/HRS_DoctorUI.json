@@ -1,0 +1,429 @@
+[
+  {
+    "name": "Claude",
+    "commits": [
+      {
+        "date": "2025-10-23",
+        "title": "feat: 增强排班系统功能和测试数据"
+      },
+      {
+        "date": "2025-10-23",
+        "title": "修改患者列表筛选逻辑并添加申请调整排班功能"
+      },
+      {
+        "date": "2025-10-28",
+        "title": "fix: 修复所有源代码文件的UTF-8编码问题"
+      },
+      {
+        "date": "2025-10-28",
+        "title": "feat: 配置网络连接以对接后端API"
+      },
+      {
+        "date": "2025-10-28",
+        "title": "feat: 实现医生端前端API接口集成"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "重构排班变更申请的originalTime字段"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "修复排班表单元格函数的 undefined 错误"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "添加排班表调试日志以诊断显示问题"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "修复API响应处理，正确解析后端嵌套数据结构"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "修改账号显示逻辑，只从本地存储获取"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "修复登录加载、排班显示和个人信息栏问题"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "更新排班变更申请接口返回体格式"
+      },
+      {
+        "date": "2025-11-09",
+        "title": "重构医生排班表功能，优化接口和UI显示"
+      },
+      {
+        "date": "2025-11-11",
+        "title": "更新 /doctor/patient/status 接口，实现完整的患者就诊流程"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "使用本地状态缓存解决患者状态被覆盖的问题"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "修复患者状态更新后按钮不变化的问题"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "实现单人接诊限制和接诊后不受时间限制"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "添加强制接诊模式（测试用），可无视所有时间限制"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "添加就诊时间限制，仅允许接诊当前时段内的患者"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "实现患者状态更新后的即时UI响应"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "调整调班对话框空班次样式为透明背景"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "实现医生间调班和调到空闲时间的逻辑区分"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "修复排班表单元格样式渲染问题"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "修复排班表样式和API调用问题"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "优化排班表显示和交互逻辑"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "修改排班表日期显示，为每一天显示日期并以小字体换行显示"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "简化患者病历单基本信息，仅显示姓名、性别、年龄"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "在患者列表添加信息列，显示患者病历单和就诊记录"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "支持周末排班，将排班表改为每周显示7天"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "删除排班表中的第三周，只保留本周和下周"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "在排班表的本周、下周、第三周上方添加对应日期标签"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "修复患者状态处理的容错性和调试支持"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "在开发环境中自动加载加号申请Mock数据"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "修复 SSE 接口路径缺少 /doctor 前缀的问题"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "Revert \"将通知 SSE 接口的 token 鉴权改为 Authorization header\""
+      },
+      {
+        "date": "2025-11-14",
+        "title": "添加加号申请记录的前端用例Mock数据"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "将通知 SSE 接口的 token 鉴权改为 Authorization header"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "修复患者查看功能记录显示问题"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "修复 HTTP 500 状态码中业务 code 409 的处理"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "处理重复申请排班变更的 409 状态码"
+      },
+      {
+        "date": "2025-11-18",
+        "title": "完善加号审核接口以匹配后端 API 规范"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "添加详细的 SSE 调试日志以排查数据接收问题"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "从患者列表中删除科室列"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "删除晚班时段并实现多医生排班格分裂功能"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "修复 SSE 事件监听问题 - 使用自定义事件名 \"add-number-updated\""
+      },
+      {
+        "date": "2025-11-20",
+        "title": "添加系统通知详情查看功能"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "修复 SSE 连接的 CORS 跨域错误"
+      }
+    ]
+  },
+  {
+    "name": "Fang Shouyue",
+    "commits": [
+      {
+        "date": "2025-10-28",
+        "title": "完成医生端登录"
+      },
+      {
+        "date": "2025-10-28",
+        "title": "Merge pull request #5 from ABLT1273/claude/network-config-setup-011CUZbr9RAMsqvu3xyVeVdL"
+      },
+      {
+        "date": "2025-10-28",
+        "title": "Merge pull request #4 from ABLT1273/claude/network-config-setup-011CUZbr9RAMsqvu3xyVeVdL"
+      },
+      {
+        "date": "2025-10-28",
+        "title": "Merge pull request #3 from ABLT1273/claude/doctor-registration-api-011CUZJ6z1wYQ9QamSBzcg4E"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "Merge pull request #10 from ABLT1273/claude/fix-login-loading-spinner-011CUrE88DBdTXSbXsNRe7R3"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "Merge pull request #9 from ABLT1273/claude/fix-login-loading-spinner-011CUrE88DBdTXSbXsNRe7R3"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "Merge pull request #8 from ABLT1273/claude/fix-login-loading-spinner-011CUrE88DBdTXSbXsNRe7R3"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "Merge pull request #7 from ABLT1273/claude/fix-login-loading-spinner-011CUrE88DBdTXSbXsNRe7R3"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "Merge pull request #6 from ABLT1273/claude/fix-login-loading-spinner-011CUrE88DBdTXSbXsNRe7R3"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "Merge pull request #11 from ABLT1273/claude/doctor-schedule-change-api-011CUt8B36FXrNFXpskaKBYz"
+      },
+      {
+        "date": "2025-11-09",
+        "title": "Merge pull request #12 from ABLT1273/claude/doctor-shift-schedule-refactor-011CUxGJWLETKW3kWEKzV8LR"
+      },
+      {
+        "date": "2025-11-11",
+        "title": "Merge pull request #13 from ABLT1273/claude/update-doctor-patient-status-api-011CV1yfebCkaUe8R7MoKgUB"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "Merge pull request #23 from ABLT1273/claude/update-doctor-patient-status-api-011CV1yfebCkaUe8R7MoKgUB"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "Merge pull request #22 from ABLT1273/claude/update-doctor-patient-status-api-011CV1yfebCkaUe8R7MoKgUB"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "Merge pull request #21 from ABLT1273/claude/update-doctor-patient-status-api-011CV1yfebCkaUe8R7MoKgUB"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "Merge pull request #20 from ABLT1273/claude/update-doctor-patient-status-api-011CV1yfebCkaUe8R7MoKgUB"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "Merge pull request #19 from ABLT1273/claude/doctor-shift-swap-logic-011CV5k6meCAjJwRgbkq6xoS"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "Merge pull request #18 from ABLT1273/claude/schedule-display-self-shift-011CV5bNG6LUo5uCh9AGdRdz"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "Merge pull request #17 from ABLT1273/claude/schedule-display-self-shift-011CV5bNG6LUo5uCh9AGdRdz"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "Merge pull request #16 from ABLT1273/claude/schedule-display-self-shift-011CV5bNG6LUo5uCh9AGdRdz"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "Merge pull request #15 from ABLT1273/claude/add-date-labels-schedule-011CV55MKFZW3CCm524abigk"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "Merge pull request #14 from ABLT1273/claude/add-date-labels-schedule-011CV55MKFZW3CCm524abigk"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "Merge pull request #28 from ABLT1273/claude/add-notification-apis-015vuNUgBLv7haEHoTvGC6oD"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "Merge pull request #27 from ABLT1273/claude/add-notification-apis-015vuNUgBLv7haEHoTvGC6oD"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "Merge pull request #26 from ABLT1273/claude/fix-patient-records-display-0135uCDFs5hgEQVqd7QuntcG"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "Merge pull request #25 from ABLT1273/claude/doctor-shift-swap-logic-011CV5k6meCAjJwRgbkq6xoS"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "Merge pull request #24 from ABLT1273/claude/doctor-shift-swap-logic-011CV5k6meCAjJwRgbkq6xoS"
+      },
+      {
+        "date": "2025-11-18",
+        "title": "Merge pull request #29 from ABLT1273/claude/add-notification-apis-015vuNUgBLv7haEHoTvGC6oD"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "时间修改"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "Merge pull request #30 from ABLT1273/claude/add-notification-apis-015vuNUgBLv7haEHoTvGC6oD"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "Merge pull request #33 from ABLT1273/claude/add-notification-apis-015vuNUgBLv7haEHoTvGC6oD"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "Merge pull request #32 from ABLT1273/claude/fix-patient-records-display-0135uCDFs5hgEQVqd7QuntcG"
+      },
+      {
+        "date": "2025-11-20",
+        "title": "Merge pull request #31 from ABLT1273/claude/multi-doctor-schedule-display-01Ryup6sShnNY6GogYAGM4JL"
+      }
+    ]
+  },
+  {
+    "name": "ABLT1273",
+    "commits": [
+      {
+        "date": "2025-10-22",
+        "title": "第一次提交：较完整前端框架"
+      },
+      {
+        "date": "2025-10-23",
+        "title": "Merge pull request #1 from ABLT1273/claude/modify-patient-list-filter-011CUQ4bp9WVWqjnq1AEqrqJ"
+      },
+      {
+        "date": "2025-10-24",
+        "title": "Merge pull request #2 from ABLT1273/claude/create-patient-test-entries-011CUQ9UPESg7o9N2Fp65YEs"
+      },
+      {
+        "date": "2025-10-28",
+        "title": "增加后端配置说明"
+      },
+      {
+        "date": "2025-10-28",
+        "title": "新接口文档"
+      },
+      {
+        "date": "2025-10-28",
+        "title": "删除旧版"
+      },
+      {
+        "date": "2025-10-28",
+        "title": "上传第一代接口文件"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "Merge branch 'main' of https://github.com/ABLT1273/HRS_DoctorUI"
+      },
+      {
+        "date": "2025-10-30",
+        "title": "完成医生端登录*2"
+      },
+      {
+        "date": "2025-11-02",
+        "title": "重构登录接口，移除模拟数据，完善互动-UI-接口-UI显示链条，添加SSE流，微调样式，保证挂号详情加载器正常显示；由于数据库未启动，未验证数据流"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "统一originalTime字段格式"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "修改api文档"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "统一使用id/xxId格式，微调了前端显示UI"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "Merge branch 'main' of https://github.com/ABLT1273/HRS_DoctorUI"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "ScheduleChange请求格式的api文档调整"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "删除不必要文件，修正请假天数逻辑"
+      },
+      {
+        "date": "2025-11-11",
+        "title": "修正/selfshifts接口不会传递docId的问题"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "Merge branch 'main' of https://github.com/ABLT1273/HRS_DoctorUI"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "删除个人界面诊室显示"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "Merge branch 'main' of https://github.com/ABLT1273/HRS_DoctorUI"
+      },
+      {
+        "date": "2025-11-14",
+        "title": "格式微调"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "推送云端"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "Merge branch 'main' of https://github.com/ABLT1273/HRS_DoctorUI"
+      }
+    ]
+  }
+]

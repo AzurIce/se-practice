@@ -69,3 +69,6 @@
 [submodule "repos/11-HospitalSystem/HospitalManage"]
 	path = repos/11-HospitalSystem/HospitalManage
 	url = https://github.com/ALKYH/HospitalManage
+[submodule "repos/8-HospitalSystem/frontend"]
+	path = repos/8-HospitalSystem/frontend
+	url = https://github.com/hospital-BJTU/frontend.git

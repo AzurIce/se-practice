@@ -1,0 +1,250 @@
+[
+  {
+    "name": "CNlaziji",
+    "commits": [
+      {
+        "date": "2025-10-16",
+        "title": "Update README.md"
+      },
+      {
+        "date": "2025-10-16",
+        "title": "Initial commit"
+      },
+      {
+        "date": "2025-10-22",
+        "title": "Delete src/models"
+      },
+      {
+        "date": "2025-10-22",
+        "title": "Create models"
+      },
+      {
+        "date": "2025-10-22",
+        "title": "Create readme.md"
+      },
+      {
+        "date": "2025-10-22",
+        "title": "Delete src/readme.md"
+      },
+      {
+        "date": "2025-10-22",
+        "title": "Create readme.md"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "Merge pull request #1 from hospital-BJTU/DSR"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "Merge branch 'backend' into DSR"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "Add files via upload"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "重写appointmentController实现事务安全和高并发处理"
+      },
+      {
+        "date": "2025-11-07",
+        "title": "重构authMiddleware兼容新旧token格式"
+      },
+      {
+        "date": "2025-11-11",
+        "title": "Add files via upload"
+      },
+      {
+        "date": "2025-11-11",
+        "title": "修复预约创建和认证中间件的问题"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "Add files via upload"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "修改了预约序号的计算问题，取消的预约会直接标记取消，计算方式则通过计算全部预约实现"
+      },
+      {
+        "date": "2025-11-25",
+        "title": "Merge pull request #3 from hospital-BJTU/temp"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "Merge pull request #5 from hospital-BJTU/temp"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "Merge pull request #4 from hospital-BJTU/temp"
+      }
+    ]
+  },
+  {
+    "name": "LaZiJi",
+    "commits": [
+      {
+        "date": "2025-10-22",
+        "title": "完成合并"
+      },
+      {
+        "date": "2025-10-22",
+        "title": "初始化后端代码"
+      },
+      {
+        "date": "2025-10-28",
+        "title": "添加后端核心文件"
+      },
+      {
+        "date": "2025-10-28",
+        "title": "完成合并main到backend分支"
+      },
+      {
+        "date": "2025-10-28",
+        "title": "添加后端核心文件"
+      },
+      {
+        "date": "2025-10-28",
+        "title": "添加项目文件"
+      },
+      {
+        "date": "2025-11-05",
+        "title": "chore: 移除BJTU-CampusCare子模块"
+      },
+      {
+        "date": "2025-11-05",
+        "title": "feat(预约): 添加预约功能相关路由和控制器"
+      },
+      {
+        "date": "2025-11-16",
+        "title": "refactor(预约): 重构用户预约控制器代码"
+      },
+      {
+        "date": "2025-11-16",
+        "title": "Merge branch 'backend' of github.com:hospital-BJTU/backend into backend"
+      },
+      {
+        "date": "2025-11-16",
+        "title": "feat(预约系统): 重构预约功能并添加并发测试"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "feat(排班管理): 实现医生排班提报和审核功能"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "Merge branch 'backend' of github.com:hospital-BJTU/backend into backend"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "fix(doctorAppointmentController): 修正医生请假逻辑中的字段命名和校验"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "feat(医生排班): 新增排班日历查询、详情查看和请假功能"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "feat(预约): 新增科室和医生筛选功能并优化预约逻辑"
+      },
+      {
+        "date": "2025-11-24",
+        "title": "Merge branch 'backend' of github.com:hospital-BJTU/backend into backend"
+      },
+      {
+        "date": "2025-11-25",
+        "title": "refactor(models): 优化模型关联关系并修复字段命名"
+      },
+      {
+        "date": "2025-11-27",
+        "title": "fix(审计日志): 修复审计日志表结构并添加日志记录功能"
+      }
+    ]
+  },
+  {
+    "name": "RongStarD",
+    "commits": [
+      {
+        "date": "2025-11-06",
+        "title": "Align cancel/detail controllers to apptId route param"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "新增图形验证码功能"
+      },
+      {
+        "date": "2025-11-11",
+        "title": "Merge pull request #2 from hospital-BJTU/DSR"
+      },
+      {
+        "date": "2025-11-11",
+        "title": "Merge branch 'backend' into DSR"
+      },
+      {
+        "date": "2025-11-11",
+        "title": "添加 sql.txt"
+      },
+      {
+        "date": "2025-11-11",
+        "title": "新增医生端叫号过号"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "merge"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "修改部分问题，新增医生队列查询"
+      },
+      {
+        "date": "2025-11-13",
+        "title": "修改叫号过号逻辑，新增接诊完成"
+      },
+      {
+        "date": "2025-11-26",
+        "title": "科室管理"
+      }
+    ]
+  },
+  {
+    "name": "siwikk",
+    "commits": [
+      {
+        "date": "2025-11-06",
+        "title": "修改"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "用户查询预约功能"
+      },
+      {
+        "date": "2025-11-06",
+        "title": "找回密码功能实现"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "Merge branch 'gjj2' into backend"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "Update userController.js"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "调整命名"
+      },
+      {
+        "date": "2025-11-19",
+        "title": "修改bug"
+      },
+      {
+        "date": "2025-11-26",
+        "title": "Merge branch 'gjj1' into temp"
+      },
+      {
+        "date": "2025-11-26",
+        "title": "医生和用户的增删改查"
+      }
+    ]
+  }
+]
